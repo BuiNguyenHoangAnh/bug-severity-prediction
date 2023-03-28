@@ -1,0 +1,1 @@
+[Inspection list] The sorting of inspection list is incorrect after filtering

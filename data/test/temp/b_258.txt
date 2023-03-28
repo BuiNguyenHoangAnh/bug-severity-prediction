@@ -1,0 +1,1 @@
+[Basic Geo Map View] No assets are displayed on the map when the page is first loaded

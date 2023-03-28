@@ -1,0 +1,1 @@
+[Filter pipeline segments] User should only select the current date or earlier

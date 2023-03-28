@@ -1,0 +1,1 @@
+[Remove permission at platform level] NEW indicators are displayed despite the old app permissions

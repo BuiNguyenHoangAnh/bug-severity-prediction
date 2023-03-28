@@ -1,0 +1,1 @@
+[View all tenants] The card shadow is cut at the end of the tenant list

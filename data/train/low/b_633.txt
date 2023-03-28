@@ -1,0 +1,1 @@
+[Subscribe business app for tenant - UI] Navigation tab bar is not the same as the design

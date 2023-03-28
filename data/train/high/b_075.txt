@@ -1,0 +1,1 @@
+[Configure app permissions for tenant] Business admin can configure app permissions for a tenant

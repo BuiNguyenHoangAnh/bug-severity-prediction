@@ -1,0 +1,1 @@
+[Filter pipeline segments] Message is displayed when the last filter condition is cleared

@@ -1,0 +1,1 @@
+[2FA] Style of CONTINUE is not the same as the design

@@ -1,0 +1,1 @@
+[Tenant role management - UI] Application permissions are still show up even though they were removed

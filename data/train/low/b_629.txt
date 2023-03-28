@@ -1,0 +1,1 @@
+[Subscribe business app for tenant - UI] Tenant name is incorrect when reloading the current page in view app detail under tenant

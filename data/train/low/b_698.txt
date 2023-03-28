@@ -1,0 +1,1 @@
+[Contextual help] Help content becomes blank when scrolling down in any detail, then back to Help

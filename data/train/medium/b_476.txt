@@ -1,0 +1,1 @@
+[Pipeline questionnaire] No reflection on Navigation tool when scrolling on pipeline questionnaire

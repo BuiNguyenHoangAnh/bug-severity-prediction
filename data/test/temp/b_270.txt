@@ -1,0 +1,1 @@
+[Update tenant information] Tenant profile tab is highlighted despite switching tab in small view port

@@ -1,0 +1,1 @@
+EventLog provider is not available in AppService.

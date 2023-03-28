@@ -1,0 +1,1 @@
+[Asset inspection timeline] Tooltip is displayed even though the label is fully displayed

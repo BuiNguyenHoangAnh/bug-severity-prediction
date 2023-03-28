@@ -1,0 +1,1 @@
+[Tenant detail page] There is no tooltip when hovering over Company name

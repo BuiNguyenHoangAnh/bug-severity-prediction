@@ -1,0 +1,1 @@
+[Create new user] Warnings are not displayed despite user interaction with the browser

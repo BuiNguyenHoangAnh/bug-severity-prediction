@@ -1,0 +1,1 @@
+[Integrate app - API] Sensitive permissions can be added to administrative app (expected: cannot be added)

@@ -1,0 +1,1 @@
+[Remove permission at platform level] Dialog padding is not the same as the design

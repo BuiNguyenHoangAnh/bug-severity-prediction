@@ -1,0 +1,1 @@
+[Launcher page] Navigating to 404 page when clicking Asset Explorer on Launcher page

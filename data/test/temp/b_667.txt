@@ -1,0 +1,1 @@
+[Notification] No real-time notification for ROSEN personnel when a new service request is created

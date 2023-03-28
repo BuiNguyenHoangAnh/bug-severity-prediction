@@ -1,0 +1,1 @@
+[Platform role management - UI] UI shows both message dialog & redirect to 403 page

@@ -1,0 +1,1 @@
+[Loading] The shape of the load icon must be circular ----- immediately appear

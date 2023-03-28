@@ -1,0 +1,1 @@
+[Integrate application - UI logic] Cannot load service list in the form add service to app after first navigate out 

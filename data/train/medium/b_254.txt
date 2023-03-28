@@ -1,0 +1,1 @@
+[Account activation] Events that occur while user is entering data is not caught

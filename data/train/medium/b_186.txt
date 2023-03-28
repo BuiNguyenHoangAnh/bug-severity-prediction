@@ -1,0 +1,1 @@
+[Front end] Download with filter in Tx Report (Admin) doesn't apply filter in downloaded file 

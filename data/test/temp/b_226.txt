@@ -1,0 +1,1 @@
+[View all tenant] The cursor displayed as pointer but cannot click anything

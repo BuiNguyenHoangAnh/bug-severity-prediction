@@ -1,0 +1,1 @@
+[Platform role] Status 200 with body [] if adding an existed user to platform role

@@ -1,0 +1,1 @@
+[Tenant detail] Loading indicator is still displayed instead of the previous page when refreshing from the warning popup

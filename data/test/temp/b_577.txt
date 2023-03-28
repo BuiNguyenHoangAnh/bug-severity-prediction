@@ -1,0 +1,1 @@
+[Edit filter chip] No segments are highlighted if filter has WT greater than 0

@@ -1,0 +1,1 @@
+[Integrate app + service] Number of click [Try again] is not correct

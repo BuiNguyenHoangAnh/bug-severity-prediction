@@ -1,0 +1,1 @@
+[Tenant detail] Empty page is displayed if BA/TA doesn't have permission to view his tenant info

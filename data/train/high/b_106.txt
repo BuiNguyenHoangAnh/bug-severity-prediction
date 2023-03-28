@@ -1,0 +1,1 @@
+[Filter pipeline segments] Result of filtering by inspection status is incorrect

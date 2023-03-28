@@ -1,0 +1,1 @@
+[Map view] The selected segment must be displayed with both launcher/receiver

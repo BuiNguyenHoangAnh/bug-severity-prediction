@@ -1,0 +1,1 @@
+Auto resize for iframe to match with application height

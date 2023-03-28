@@ -1,0 +1,1 @@
+[Application integration - UI logic] [Try again] does not show again after failing to add a permission

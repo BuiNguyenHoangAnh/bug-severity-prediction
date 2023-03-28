@@ -1,0 +1,1 @@
+[Integrate application - API] Cannot create application even though no error is displayed

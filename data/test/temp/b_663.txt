@@ -1,0 +1,1 @@
+[Save pipeline questionnaire answer] No confirmation when user clicks [Close] after editing

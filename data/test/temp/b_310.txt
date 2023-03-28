@@ -1,0 +1,1 @@
+[View all tenants - UI] Email is displayed as an ellipsis if it's too long

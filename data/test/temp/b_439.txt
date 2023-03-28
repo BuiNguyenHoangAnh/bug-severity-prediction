@@ -1,0 +1,1 @@
+[Platform role management - DB] Tenant admin cannot create a new user under the tenant

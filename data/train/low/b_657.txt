@@ -1,0 +1,1 @@
+[Remove permission at platform level] Try again must be replaced if it is clicked some times (status code 500)

@@ -1,0 +1,1 @@
+[Quick start] Quick start popup is not fitted with small height viewport

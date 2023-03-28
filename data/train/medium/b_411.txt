@@ -1,0 +1,1 @@
+[Update timeline] Status code 200 with data instead of 400 if tenantId is wrong format

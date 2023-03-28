@@ -1,0 +1,1 @@
+[Subscribe application for tenant - UI] Disabled button is not work with response data

@@ -1,0 +1,1 @@
+[Subscribe business app for tenant - API] User can get app permissions even though he does not subscribe that application

@@ -1,0 +1,1 @@
+[Asset inspection timeline] The content of inspection nodes does not update when filtered (applied to nodes with more than 1 target / supplier)

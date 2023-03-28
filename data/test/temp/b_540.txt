@@ -1,0 +1,1 @@
+[Inspection list] Hover state of filter option is not the same as the design

@@ -1,0 +1,1 @@
+[Update timeline] Response data of update endpoint includes 'inspection' (expected: only 'segment')

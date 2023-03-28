@@ -1,0 +1,1 @@
+[Filter pipeline segments] Using point and comma in decimals

@@ -1,0 +1,1 @@
+[Improvement] Confirmation dialog is displayed after user navigates to another view

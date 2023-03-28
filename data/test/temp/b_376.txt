@@ -1,0 +1,1 @@
+[Integrate application - UI logic] The sort in Add Service form is working incorrectly

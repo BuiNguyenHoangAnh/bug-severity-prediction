@@ -1,0 +1,1 @@
+Incorrect start date shown in transaction report without date range filter

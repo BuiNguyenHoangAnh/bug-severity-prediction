@@ -1,0 +1,1 @@
+[Asset inspection timeline] Behaviors are not incorrect when asset has not ever inspected

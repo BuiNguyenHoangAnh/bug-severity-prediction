@@ -1,0 +1,1 @@
+[Platform role management - UI] User does not have any way to unselect a user when adding users

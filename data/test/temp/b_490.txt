@@ -1,0 +1,1 @@
+[Configure role's permissions for tenant] Confirmation dialog is not displayed if all app permissions are tried to remove despite error 500

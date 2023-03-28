@@ -1,0 +1,1 @@
+[Platform built-in role permission configuration] Table in Add app permission dialog is broken with short value

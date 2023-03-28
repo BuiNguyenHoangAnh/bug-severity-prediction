@@ -1,0 +1,1 @@
+Import file does not work if cancel on file dialog in KMU multiple register

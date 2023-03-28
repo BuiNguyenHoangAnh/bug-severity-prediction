@@ -1,0 +1,1 @@
+[Map view] Cutting points are not displayed on mobile (unselected state)

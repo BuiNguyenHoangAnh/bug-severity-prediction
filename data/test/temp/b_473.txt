@@ -1,0 +1,1 @@
+[Subscribe application for tenant] Sorting in application permissions is not work correctly

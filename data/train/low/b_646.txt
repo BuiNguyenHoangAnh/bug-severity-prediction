@@ -1,0 +1,1 @@
+[Configure role's permissions for tenant] Description must be displayed with [Read more] & other field must be displayed using [...] with tooltips if  they're too long

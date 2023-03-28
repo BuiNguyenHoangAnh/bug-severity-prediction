@@ -1,0 +1,1 @@
+Scroll to top when navigating between pages of certificates or transactions doesn't actually scroll to top

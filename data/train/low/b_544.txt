@@ -1,0 +1,1 @@
+[View all tenants] Tooltip displays ellipsis with long strings

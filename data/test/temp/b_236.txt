@@ -1,0 +1,1 @@
+Incorrect gap between search input and asset list

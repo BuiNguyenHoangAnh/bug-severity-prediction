@@ -1,0 +1,1 @@
+[AMS improvement - UI] Tooltip is displayed even when hovering over empty space

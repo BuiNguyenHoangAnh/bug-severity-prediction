@@ -1,0 +1,1 @@
+[Application management] Sorting does not work correctly in app permission table at platform level

@@ -1,0 +1,1 @@
+[Platform role management - UI] User is not navigate to 403 page if user is not Authorized to perform an action

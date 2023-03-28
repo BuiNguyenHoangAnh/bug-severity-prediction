@@ -1,0 +1,1 @@
+[Platform role management - API] Status 500 when adding an added user

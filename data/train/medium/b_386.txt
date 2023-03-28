@@ -1,0 +1,1 @@
+[Configure role's permissions for tenant] The sorting at the first time a user views the app permissions list differs from a similar sort later

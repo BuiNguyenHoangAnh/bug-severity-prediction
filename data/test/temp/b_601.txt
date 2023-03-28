@@ -1,0 +1,1 @@
+[Tenant management] Navigating to empty tenant list when TA/BA clicks on a notification & has no that permission

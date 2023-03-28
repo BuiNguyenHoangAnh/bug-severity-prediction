@@ -1,0 +1,1 @@
+[Platform built-in role permission configuration] Adjust pop-up message for app permission loading error

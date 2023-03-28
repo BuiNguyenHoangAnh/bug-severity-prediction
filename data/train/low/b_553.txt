@@ -1,0 +1,1 @@
+[Tenant detail page] Border radius of [Tenant profile] tab is not the same as the design

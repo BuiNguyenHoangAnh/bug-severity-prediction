@@ -1,0 +1,1 @@
+[Configure role's permissions for tenant] The newly added required permissions in platform is not added to tenant role automatically

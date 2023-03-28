@@ -1,0 +1,1 @@
+[Update tenant information] Edit dialog is still displayed even though clicking backward/forward button of browser

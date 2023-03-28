@@ -1,0 +1,1 @@
+[Integrate application - UI] No tooltips are displayed if the string is displayed with ellipses

@@ -1,0 +1,1 @@
+[Integrate application - UI] Scrollbar is displayed even though the viewport is large

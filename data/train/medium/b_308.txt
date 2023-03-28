@@ -1,0 +1,1 @@
+[Inspection timeline - UI] Timeline is displayed although the asset has not been inspected yet

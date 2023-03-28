@@ -1,0 +1,1 @@
+[Create new user] User can be created though the email is existed in the system

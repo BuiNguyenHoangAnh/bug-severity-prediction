@@ -1,0 +1,1 @@
+[Improvement] Message is not displayed instead of loading forever if some requests are failed

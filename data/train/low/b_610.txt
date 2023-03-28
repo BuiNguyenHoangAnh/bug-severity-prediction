@@ -1,0 +1,1 @@
+[Integrate application - UI] No loading indicator when assigning permission

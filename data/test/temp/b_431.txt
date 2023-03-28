@@ -1,0 +1,1 @@
+[Platform role management - UI] Tenant column should not be displayed if that is in a built-in role

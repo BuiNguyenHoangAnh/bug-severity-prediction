@@ -1,0 +1,1 @@
+[Integrate application - UI logic] No message or warning is displayed when a permission cannot be added

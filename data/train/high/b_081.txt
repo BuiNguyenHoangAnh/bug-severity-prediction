@@ -1,0 +1,1 @@
+[Configure role's permissions for tenant] Sort by permission name in the assigned app permissions in tenant role is not work

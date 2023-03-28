@@ -1,0 +1,700 @@
+valueID,note
+b_000,Can not get static files from Azure service
+b_001,Missing Competencies in UI
+b_002,Show [Job Level] Description 1 (label = Job Tasks) if no Matrix relevant data is found
+b_003,Wording forgot password incorrect
+b_004,Change initial junction page and remove button [certificate validation]
+b_005,Error message lost focus not correct
+b_006,Error message login
+b_007,Sign out button not available
+b_008,Azure App Service ASP.NET core Request Host is not resolved correctly
+b_009,Error message lost focus not correct
+b_010,Ethereum client (Geth v1.8) consumes a lot of memory during deployment of multiple certificate.
+b_011,Translation error sign in page (GERMAN)
+b_012,Wrong and missing error message at sign-in page
+b_013,Error message after wrong data entry
+b_014,Error message wrong data entry
+b_015,Emailadress to send emails still gmail account
+b_016,Could not test change password page due to not receiving email to change password
+b_017,Error message on German site not correct
+b_018,Missing translations
+b_019,Password rule violation not working
+b_020,Wrong email message shown
+b_021,Correct subject of reset password email
+b_022,Contact link not working
+b_023,"No action, if clicking on change password link"
+b_024,Error message after entering valid but wrong information
+b_025,Incorrect wording (DE) in change password page
+b_026,Password rule violation not working
+b_027,Password rule violation not working
+b_028,Could not test EN version with change password.
+b_029,(DE) Missing translation for mandatory information
+b_030,Translation errors
+b_031,Translation errors
+b_032,Color in state Ensuring not according to styleguide
+b_033,Date format for date of birth not correct
+b_034,Correct error message for failed certificates
+b_035,Pagination: Please adjust color of icons
+b_036,Missing 3 dot icon in state of ensuring
+b_037,Sort function not work properly according to the requirement
+b_038,Wrong sign recognition
+b_039,Grammar error in message
+b_040,Indicate that student ID can not be changed
+b_041,Typing error in message
+b_042,Heading wrong
+b_043,Can not proceed after step1
+b_044,Duplicate check prevents update of certificate
+b_045,Wrong error message
+b_046,Grammar error in message
+b_047,Grammar mistakes in error message
+b_048,Wrong row numbers shown
+b_049,Wrong URL for validation
+b_050,Missing Translation for Button [Delete]
+b_051,Wrong color for Degree
+b_052,Searching by full name not working right
+b_053,Translation error in DE Version
+b_054,Grades Missing on review page
+b_055,Spelling error in error message
+b_056,Date on cost overview PDF not shown 
+b_057,Spelling error bank name
+b_058,QR-code does not work on mobile phone and link not on laptop
+b_059,"Adjust DE message, if no certificate with status exists"
+b_060,Missing space in Blockchain PDF
+b_061,Wrong Error Message after Account blocking
+b_062,Design error in message display (DE)
+b_063,No error message at retry all
+b_064,"Certificates failed to retry should transit to ""EnsureFailed"" instead of ""Ensuring"""
+b_065,Incorrect return response on Validation page after delete a certificate
+b_066,Validation via QR-Code & Smartphone not working correctly
+b_067,Unable to ensure a certificate in QA
+b_068,Transaction register for Certificate Issuer is showing wrong figures
+b_069,"Fix ""Pending transaction"" in ethereum node (Devtest)"
+b_070,Fix the tenantId is not used correctly
+b_071,Can not Ensure a single certificate in mainnet
+b_072,Can not ensure multiple certificates in mainnet
+b_073,Optimize the size of validation page on mobile device
+b_074,IE - Can not load .otf font on validation page
+b_075,Wrong Link to Etherscan in certificate details
+b_076,Wrong time range in PDF 
+b_077,New Account on QA not working
+b_078,Retry of failed update always points to old smart contract address
+b_079,translation error
+b_080,"Missing translation in ""Issued date is after expired day error"""
+b_081,Fix defaultGasLimit config for ensuring certificate.
+b_082,EventLog provider is not available in AppService.
+b_083,Fix underscore in downloaded file name of KMU's certificate
+b_084,Incorrect blockchain link in PDF file
+b_085,Display Step 2 adjustment
+b_086,Adjustment of Blockchain PDF Layout
+b_087,KMU's downloaded report also includes transactions from CERTIVATION
+b_088,Import file does not work if cancel on file dialog in KMU multiple register
+b_089,Stepper navigation header doesn't trigger necessary validation at certain steps
+b_090,"Missing ""s"" in Admin bread crumb bar"
+b_091,"""Retry All"" button should not be disabled when downloading"
+b_092,Disabled button should not be hovered
+b_093,Disable print button when page loading (Admin transaction report)
+b_094,"Should not enable ""Change password"" button when inputs are empty"
+b_095,Page flickering when progress bar is toggled (Admin page)
+b_096,Vertical center alignment in column title (Admin transaction report)
+b_097,Adjust distance in Step 4 of Certivation certificate register
+b_098,Wrong layout in blockchain validation page not found in Iframe
+b_099,"Remove "".csv"" support from stepper notificcation in KMU multiple entry stepper"
+b_100,Ensure multiple certificate doesn't show estimation cost
+b_101,Auto resize for iframe to match with application height
+b_102,User input invalid data input fields Failed
+b_103,[UI][Multi upload] Unable to upload same file twice if using clear (x) button
+b_104,No cost policy applied when accessing KMU Transaction Register as a Certificate Admin
+b_105,Admin transaction report template was downloaded when downloading KMU Transaction Register as a Certificate Admin
+b_106,Missing i18n for Date picker in CERTIVATION transaction register
+b_107,Newline character in scope field in enter certivation certificate
+b_108,Transaction cost not updated when upload multiple certificate
+b_109,[Back end] Download with filter in Tx Report (Admin) doesn't apply filter in downloaded file 
+b_110,[Front end] Download with filter in Tx Report (Admin) doesn't apply filter in downloaded file 
+b_111,Transaction register in admin shown NaN in Transaction cost
+b_112,Calling certificate type endpoint return empty array of type
+b_113,Transaction register in admin shown NaN in Transaction cost (Front-end)
+b_114,Wrong name of downloaded transaction report with customer filter
+b_115,Should disable print transaction report button when there is no transaction (Transaction register Admin)
+b_116,Incorrect start date shown in transaction report without date range filter
+b_117,GasPriceService does not recover after encounter Exception
+b_118,Still able to enter duplicate Individual Certificate when studentId contain space at the beginning and end
+b_119,Clear input button still showing when there is no file name (KMU multiple upload)
+b_120,"Wrong order of label in ""In file error"" dialog in Multiple upload with ""invalid data"" error"
+b_121,Upload empty excel file not handled in KMU multiple upload
+b_122,"Incorrect text binding in ""duplicate in system"" error with KMU multiple upload"
+b_123,KMU single certificate ensure: modify student ID doesn't re-run duplicate check when navigating by stepper header
+b_124,Scoreboard content not showing when updating certificate that has course item that contains year in KMU
+b_125,Wrong column in CERTIVATION transaction report PDF
+b_126,Attribute is not included in the CertificateAttributeValue property of Certificate
+b_127,Should disable print transaction cost button before page finishes loading
+b_128,Certificate fails to delete is shown as 'undefined'
+b_129,Multiple clicking on Auth0 Sign In page leads to error page
+b_130,Too long char of one word of certificate scope causes scroll bar in duplicate dialog
+b_131,DevTests and QA pipeline sometimes cannot addRosenAdmin/addAdmin
+b_132,User cannot edit user profile
+b_133,Update KMU certificate: Edit but not modify score board item but check for unchange failed
+b_134,KMU multiple certificate: wrap reason on duplicate dialog
+b_135,[Backend] Uncaught error inside BackgroundReceiptQueryService
+b_136,Cost in estimation cost report is too long
+b_137,Issue with emp-api-dev GET Users/GetUserProfile
+b_138,Issue with emp-api-dev GET Users/GetProfileImageAsync
+b_139,Issue with emp-api-dev GET Users/GetProfileAvatarAsync
+b_140,"Page is not displayed right when user click on ""Discard changes"""
+b_141,User can not press save button when phone number contains space
+b_142,Degree in duplicate dialog breaks line
+b_143,Wrong etherscan url for KMU pdf template
+b_144,"Log in with certivation issuer account, it shows blank page"
+b_145,Investigate in fixing failed to validate a certificate
+b_146,User uploads an image which larger than 6 megabytes Failed
+b_147,User deletes his profile image and avatar Failed
+b_148,Certificate failed to validate on production
+b_149,Verify does not work on some browser when language setting is Germany
+b_150,StudentID & degree is disabled when ensure certificate
+b_151,Wrong width of sign-in form on Firefox / IE
+b_152,Wrong Language: display confirmation popup when user navigates away from an editing form
+b_153,Wrong Language: Display confirmation popup when user reloads page when editing a form
+b_154,"Wrong Message: [Enter multiple certificate] Limit file type to be accepted in upload form to xlsx, xls only"
+b_155,Wrong Language: Add tooltip to describe icon buttonso
+b_156,No error message: [Enter multiple certificate] Return invalid data error if original certificate ID isn't correctly combined per defined rule (studentID;Degree)
+b_157,No error message: [Enter multiple certificate] Return invalid data error if year of course isn't correctly format. Correct format is text
+b_158,Scroll to top when switch page
+b_159,Scroll to top when navigating between pages of certificates or transactions doesn't actually scroll to top
+b_160,Fail to retry certificate in case gas is insufficient and then funded again
+b_161,Missing dots in transaction id collumn in admin transaction register template
+b_162,Transaction register: PDF download format error
+b_163,Transaction register: Does not show delete certificates at all
+b_164,Search input of Overview page is not correctly scaled when filter by ensured or failed
+b_165,Upload profile image return 400 when image has very small size
+b_166,"Auth0 says ""Oops! something went wrong"" when user log in"
+b_167,Download All Function does not work
+b_168,Massupload with Excel File does not work with German setting
+b_169,Issue with emp-api-dev GET /api/users/profile-images/profileimage
+b_170,[Test] Email field is not filled with data when user sign in
+b_171,[Test] Expected message is incorrect
+b_172,Certificate PDF not generated nor uploaded to AzureBlob
+b_173,API AppService can not start due to missing configuration (STA)
+b_174,Cannot navigate from Sign in page to Landing page when account is saved in browser
+b_175,Auth0 take too long to respond when APP get authorize status & token
+b_176,Cannot close dialog when click on [Create tenant]
+b_177,[Sort] condition should only capitalize the first character
+b_178,Bad user experience with two scroll bars
+b_179,Junk sample data 
+b_180,[User experience] Unresponsiveness while loading data
+b_181,Warning is not shown when user enters something & click [Discard] button
+b_182,A new tenant is not created when enter required fields with space & valid email +phone number
+b_183,Wrong color of [Discard]
+b_184,Form returns the warning when entering a valid phone number length
+b_185,UI does not update [Sort] + [Order] condition
+b_186,UI displays comma even though the tenant does not have [State]
+b_187,[User Experience] Table header disappears while scrolling
+b_188,[User experience] Card views of services don't have the shadow
+b_189,UI does not display ellipsis and tooltip when enter a continuous long string for Company Name
+b_190,API responses even though parameter was incorrect
+b_191,Static content is incorrect [REGULAR PATRON]
+b_192,The loading bar is still visible even when back to the Launcher page
+b_193,The page title is incorrect [Landing Page]
+b_194,[View all tenants] Dropdown item wrong padding
+b_195,[View all tenants] Create tenant button wrong padding
+b_196,[View all tenants]  The arrow icon at sorting method's padding is wrong
+b_197,[Create new tenant] Static content is incorrect [CREATE TENANT]
+b_198,[View all users] Two scroll bars are displayed with the default setting
+b_199,[Sign in] Sign in flow is incorrect
+b_200,[Login] Sign in button position is not the same as design
+b_201,[Login] Font of warning message is not the same as design
+b_202,[Login] Placeholder color is not the same as design
+b_203,[Login] Position of warning message is not the same as design
+b_204,[Login] Wrong navigation when using bookmark
+b_205,[Create new tenant] Enter invalid data then correct it by entering valid data but cannot create tenant
+b_206,[View all tenants] Tooltip displays ellipsis with long strings
+b_207,[View all tenants] The card shadow is cut at the end of the tenant list
+b_208,PDF template: Wrong text in certivation pdf 
+b_209,[BE] Parse DateTime in AutoMapper error for different machines
+b_210,Distance between elements is not the same as design
+b_211,The number of logins between the message and the configuration in Auth0 is not the same
+b_212,"[Create new user] Enter invalid DoB then delete DoB, the input shows warning and invalid data"
+b_213,[Create new user] Warnings are not displayed despite user interaction with the browser
+b_214,[Create new user] The new user is not created without any warning
+b_215,[Account activation] Events that occur while user is entering data is not caught
+b_216,[Create new user] DoB becomes valid when changing date in laptop/computer
+b_217,[User Overview] Sorting is incorrect
+b_218,[Create new user] Tool tips displays ellipsis with long strings
+b_219,[Create new user] User can be created though the email is existed in the system
+b_220,[Create new user] Inconsistent behavior when checking email addresses is unique
+b_221,[Create new user] Both warning messages are displayed with the long space string
+b_222,[Login] Login with Global admin account but the app is navigated to User Launcher page
+b_223,[Forgot password] Wrong padding of [Reset password] button in Outlook
+b_224,[Create new tenant] Cannot create new tenant with valid data
+b_225,[Tenant detail page] UI does not display [n/a] for null values
+b_226,[View all tenant] The cursor displayed as pointer but cannot click anything
+b_227,[Tenant detail page] Border radius of container is not the same as the design
+b_228,[Tenant detail page] Two scroll bars are displayed if the data is a long string
+b_229,[Tenant detail page] There is no tooltip when hovering over Company name
+b_230,[Create new user] Warning message is displayed if a valid Company name is entered but not selected in the list
+b_231,[Tenant detail page] The Tenant Management label in the breadcrumb displayed ellipsis though on large view port
+b_232,[Tenant detail page] Template is not the same as the design when changing to smaller view port
+b_233,[Tenant detail page] Border radius of [Tenant profile] tab is not the same as the design
+b_234,[View all tenant] Tenant list cannot be displayed
+b_235,[Tenant detail page] The message is incorrect
+b_236,Incorrect gap between search input and asset list
+b_237,[Basic asset list view] The label is incorrect
+b_238,[Asset inspection timeline] The label is incorrect
+b_239,[Asset inspection timeline] Tooltip is displayed even though the label is fully displayed
+b_240,[Asset inspection timeline] The [Service Provider] filter is not working properly
+b_241,[AMS] Sign in form is included [Sign in with Google]
+b_242,[Update tenant information] Edit dialog is still displayed even though clicking backward/forward button of browser
+b_243,[Update tenant information] Content of edit button is not the same as the design
+b_244,[Update tenant information] Tooltip does not work correctly
+b_245,[Update tenant information] Character counter of fields does not work properly
+b_246,[Update tenant information] Discard/Save changes button is enabled when the update is successful
+b_247,[View all tenants] Message is not the same as the design
+b_248,[View users] Spelling mistake in the message
+b_249,[View users] There are no messages when trying to load user list multiple times
+b_250,[Loading] The shape of the load icon must be circular ----- immediately appear
+b_251,[Update tenant information] Confirmation dialog has no content
+b_252,[Update tenant information] Tenant profile has no content when discarding changes
+b_253,[Update my profile] Horizontal scroll bar is displayed
+b_254,[Update my profile] Edit dialog is broken UI
+b_255,[Update my profile] Gender content is displayed incorrectly
+b_256,[Update my profile] Inconsistent behavior
+b_257,[Basic Geo Map View] Repeated map
+b_258,[Basic Geo Map View] No assets are displayed on the map when the page is first loaded
+b_259,[Basic Asset List View] There is no empty page for asset list
+b_260,[Basic Asset List View] Fade out foreground to include part of the scrollbar
+b_261,[Basic Asset List View] The assets should be hovered over fade out foreground
+b_262,[Basic Asset List View] There is no message for 500 error
+b_263,[Asset inspection timeline] The old timeline is displayed before updating to the new timeline
+b_264,[Basic Asset List View] Last inspection is calculated incorrectly
+b_265,[Basic Geo Map View] There are empty sections at the top / bottom of the map when moving up / down
+b_266,[Basic Geo Map View] No action although mouse is displayed as cursor
+b_267,[Basic Geo Map View] No map is displayed
+b_268,[Asset inspection timeline] The result of inspection timeline is not correct with filter by target
+b_269,[Basic Geo Map View] There is no indicator for selected Asset on max zoom out mode
+b_270,[Update tenant information] Tenant profile tab is highlighted despite switching tab in small view port
+b_271,[Update my profile] Scroll bar is too close to the inputs
+b_272,"[Basic Geo Map View]Provide capability to re-center selected asset on map view after panning, zooming map."
+b_273,[User detail view] The back button should have a different appearance when the cursor hovers it
+b_274,[Basic Asset List View] No message is displayed even when clicking [Please try] multiple times
+b_275,[Basic Asset List View] Website is navigated to 404 page although response status is 401
+b_276,[Basic Geo Map View] Selected asset is not aligned at center of the map
+b_277,[Basic Geo Map View] Some assets are not displayed when moving the map
+b_278,[Basic Geo Map View] Some assets are not displayed as markers at the minimum zoom level
+b_279,[Basic Asset List View] User does not have any assets but the message is [Cannot load asset list ...]
+b_280,[Basic Geo Map View] Unable to drag map to top / bottom
+b_281,[Asset inspection timeline] The inspection node is covered by two beside nodes
+b_282,[Asset inspection timeline] The content of inspection nodes does not update when filtered (applied to nodes with more than 1 target / supplier)
+b_283,[Asset inspection timeline] Asset without inspection nodes but the message is [Cannot load ...]
+b_284,[View all tenants] The shadow of the tenants in the last row are covered
+b_285,[Basic Geo Map View] Antarctic assets are covered by the timeline
+b_286,[Basic Asset List View] Spelling mistake in the message [Failed to load...]
+b_287,[Basic Asset List View] The message is incorrect when status response is 404
+b_288,[Asset inspection timeline] The inspection nodes are rearranged when filtered
+b_289,[Asset inspection timeline] 404 page is displayed when status response is 404
+b_290,[Asset inspection timeline] [Cannot ...] message is not displayed when the status response is 400
+b_291,[Asset inspection timeline] No message is displayed even when clicking [Please try] multiple times
+b_292,[Asset inspection timeline] Behaviors are not incorrect when asset has not ever inspected
+b_293,Server error on Dev when asset has no inspection
+b_294,[Create new tenant - API] Status code responses are not the same across fields despite the same data value
+b_295,[Basic Asset List View - UI] [Please try again] message is not the same as the design
+b_296,[Asset inspection timeline - UI] [Please try again] message is not the same as the design
+b_297,[Create new user - API] Status code is incorrect when the value of gender is null
+b_298,[FE] Wrong position of map control when select same asset from list again
+b_299,Possibility to change zoom factor in zoom field
+b_300,Location information overlapped by buttons
+b_301,Add Portal Logo 
+b_302,Prevent of overlap of elements in timeline by different alignment
+b_303,Adjustment of initial view on inspection targets and timeline
+b_304,Size of box for inspection targets to small
+b_305,Deselect option for a segment
+b_306,[FE] Incorrect display of asset if it cross the anti-meridian date-lines
+b_307,[Sign in - UI logic] [Wrong email or password ...] message is still displaying even though the credential has changed
+b_308,[Launcher page - UI] Horizontal scrollbar is displayed when the height is short
+b_309,[View all tenant page - UI] [Create tenant] button is still highlighted after the steps on [Create tenant] dialog have been completed
+b_310,[View all tenants - UI] Email is displayed as an ellipsis if it's too long
+b_311,[View all tenants - UI logic] Tool tip does not work correctly when the continuous string too long
+b_312,[Sign in - UI] [Sign in] dialog cannot scroll down when the viewport is too short
+b_313,[Create new tenant - UI logic] Behavior of Create a new tenant when the status response is 403 is incorrect
+b_314,[View all tenants - UI logic] No messages are displayed when the tenant list is empty
+b_315,[Tenant detail page - UI] No message is displayed even when clicking [Please try] multiple times
+b_316,[Update my profile - UI logic] No notify when the status response is 400
+b_317,[Create/Update dialog - UI logic] UI must be redirected to the Sign in page immediately upon token expiration (status code: 401)
+b_318,[Create/ Update user - API] Wrong status response when body is incorrect
+b_319,[Inspection timeline - UI] Timeline is displayed although the asset has not been inspected yet
+b_320,[Inspection timeline - UI] UI of timeline is broken
+b_321,[Update tenant - UI logic] Behavior when the status response is 403 is incorrect
+b_322,[Basic Geo Map View - UI] Asset that cross the anti-meridian date-line is disappeared when dragging the map
+b_323,[Global header AMS+PCS - UI logic] User is automatically  logged out when navigating between AMS & PCS or reloading the page
+b_324,[Global header AMS+PCS - API] Username is displayed as email instead of user's name
+b_325,[Global header AMS+PCS - UI] Label is not the same as the design
+b_326,[Launcher page II - UI] Messages are incorrect
+b_327,[View & Create user under a tenant - UI] No loading indicator to sort in the user list
+b_328,[View & Create user under a tenant - UI] Tenant name is disappeared when reloading the page
+b_329,[View & Create user under tenant] No messages/ errors/ company name are shown when create user under inactive tenant
+b_330,[Global header - UI] Inconsistent behavior when user profiles cannot be loaded
+b_331,[Asset list view - UI] Last inspection date format is not the same with the design
+b_332,[Search asset - API] Search data must be trimmed with trailing spaces and leading spaces
+b_333,[Search asset - UI] UI for no search result is not the same as the design
+b_334,[Timeline - UI] Inspection date format is not the same with design
+b_335,[Search asset - UI] [Empty asset list] must be displayed if user does not have any asset instead of [no search result]
+b_336,[Service integration - UI] Service information page is not the same as the design
+b_337,[Service integration - UI] Style of tab title is incorrect when the tab bar is displayed horizontally
+b_338,[Service integration - UI] The shadow of cards in the last row are covered
+b_339,[Service integration - UI] No tooltips are displayed if the string is displayed with ellipses
+b_340,[Service integration - UI] the message [Empty service list] is wrong position
+b_341,[Service integration - UI] The message is not grammatically correct
+b_342,[Service integration - UI] Warning messages are displayed for at the same time
+b_343,[Service integration - API] Sorting in permission table is not work
+b_344,[Service integration - UI] There is no message displayed when data is not entered in the description field
+b_345,[Service integration - UI logic] Description field in create service dialog is required field
+b_346,[PCS] Portal cannot load data at the first time access to it & server return 500
+b_347,[Create user] The new user is redirected to sign in page when logging in into Portal
+b_348,[Integrate application - UI logic] Clicking on [Application Management] is not navigated to Application Overview page
+b_349,[Integrate application - UI] [Application name] must be replaced by application name in title of Permission Assignment page
+b_350,[Integrate application - UI] Style of tab title is incorrect when the tab bar is displayed horizontally
+b_351,[Integrate application - UI] The shadow of cards in the last row are covered
+b_352,[Integrate application - UI] The border of application card is not the same as the design
+b_353,[Integrate application - UI] No loading indicator for application information page
+b_354,[Integrate application - UI] Behavior of cards in Application/Service Overview page inconsistent with the cards in Launcher/ Tenant Overview page
+b_355,[Integrate application - UI] Static content is not the same as the design
+b_356,[Integrate application - UI] The position of [Empty application list] message is incorrect
+b_357,[Integrate application - UI] No message is displayed when Application information cannot be loaded
+b_358,[Integrate application - UI] User is not redirected to 403 page when user is not Authorized
+b_359,[Integrate application - UI logic] [Cannot load... Please contact admin] message is not displayed after 4 clicks on [Try again]
+b_360,[Integrate application - UI] No tooltips are displayed if the string is displayed with ellipses
+b_361,[Service integration - UI logic] No message is displayed when service does not existed in the system
+b_362,[Service integration - UI] Static content is not the same as the design
+b_363,[Integrate application - UI] Scrollbar is displayed even though the viewport is large
+b_364,[integrate application - UI logic] Handling inconsistent errors
+b_365,[Integrate application - UI logic] No message display when the input string is longer than limit
+b_366,[Integrate application - API] Cannot create application even though no error is displayed
+b_367,[Integrate application - UI logic] No message is displayed even though SPA's IDP ClientID is the same with M2M's IDP ClientID
+b_368,[Integrate application - UI] Static content is not the same as the design
+b_369,[Integrate application - UI logic] No message is displayed when service cannot be added
+b_370,[Integrate application - UI logic] Required permission is not required when reloading the page
+b_371,[Integrate application - UI] No loading indicator when assigning permission
+b_372,[Integrate application - UI] Style of Assign Permission Page is not the same as the design
+b_373,[Integrate application - UI logic] Service list is not sorted after service has added successfully
+b_374,[Service integration - UI] UI is broken if message for the service that does not exist in the system is displayed
+b_375,[Integrate application - UI] The cursor displays as pointer but cannot do anything
+b_376,[Integrate application - UI logic] The sort in Add Service form is working incorrectly
+b_377,[Integrate application - UI logic] Cannot load service list in the form add service to app after first navigate out 
+b_378,[Integrate application - API] Inconsistent sorting behavior between FE sort logic and BE sort logic
+b_379,[Integrate application - API] Status code response is incorrect when application does not exist
+b_380,[Integrate application - UI] Message is covered by Permission table on Assign permission page
+b_381,[Integrate application - UI logic] No message or warning is displayed when a permission cannot be added
+b_382,[AMS improvements - UI] Misspellings in static content
+b_383,[AMS improvement - UI] Content spills out of line
+b_384,[AMS improvement - UI] Tooltip is displayed even when hovering over empty space
+b_385,[Integrate application - UI] Component position is incorrect when accessing by URL with ID does not exist
+b_386,[Integrate service - UI logic] No message is shown when permission cannot be created
+b_387,[All detail pages - UI logic] Error handling is not as expected
+b_388,[Search asset - API] Search feature returned unexpected result
+b_389,[Integrate service - API] Uniqueness checking behavior was not as expected
+b_390,[Integrate service - UI] Breadcrumb bar content is incorrect after doing navigation
+b_391,[Integrate service - UI logic] No message is displayed if service cannot be created
+b_392,[Integrate app + service] Number of click [Try again] is not correct
+b_393,[Application integration - UI logic] [Try again] does not show again after failing to add a permission
+b_394,[Application integration - UI] Cursor is displayed as pointer on the disabled checkbox
+b_395,[Application integration - UI logic] Content of Description column in permission table is empty when cannot get available permission list
+b_396,[Application integration - UI] The gap between Service accessibility title and Service table is not the same as the design
+b_397,[Integrate app] Error returned incorrectly when creating an app with an existing url and a blank client ID
+b_398,[Integrate app - API] Sensitive permissions can be added to administrative app (expected: cannot be added)
+b_399,[FE] App mgmt - app service dialog error message
+b_400,[Application integration - UI] Static content is incorrect
+b_401,[Service integration] User can create a new permission with the name that existed in the system within service (expected: cannot be created)
+b_402,[Improvement] UI is redirected to Launcher page & displayed message if user's available app cannot be retrieved
+b_403,[Subscribe business app for tenant - UI] Static content is not the same as the design
+b_404,[Subscribe business app for tenant - API] Subscribed date is not correct
+b_405,[Asset inspection timeline - API] Inspection nodes' positions are incorrect
+b_406,[Geo map view - UI] No launcher/ receiver marker is displayed
+b_407,[Geo map view - UI] Position of Selected & Unselected asset in Legend are not correct
+b_408,[Search asset - API] Search asset is using case-sensitive (expected: insensitive)
+b_409,[Asset list view - API] The parsed OD value is incorrect
+b_410,[Subscribe business app for tenant - UI] Tenant name is incorrect when reloading the current page in view app detail under tenant
+b_411,[Subscribe business app for tenant - UI] Message is not the same as the design
+b_412,[Subscribe business app for tenant - UI] No message is displayed if application have no permissions
+b_413,[Subscribe business app for tenant - UI] Add users dialog padding is not the same as the design
+b_414,[Subscribe business app for tenant - UI] Navigation tab bar is not the same as the design
+b_415,[Subscribe business app for tenant - UI] Long description is displayed with ellipses instead of [Read more] ad in the design
+b_416,[Subscribe business app for tenant - API] User can get app permissions even though he does not subscribe that application
+b_417,[Subscribe business app for tenant - API] Status code responses are different in the same case
+b_418,[Subscribe business app for tenant - UI] [Cannot load...] & [Application does not exist] message are displayed at the same time if application ID does not exist
+b_419,[Subscribe business app for tenant - UI] Permission list is displayed even though application does not have any permissions
+b_420,[Improvement] Message is not displayed instead of loading forever if some requests are failed
+b_421,[Subscribe business app for tenant - UI] Cannot navigate to anywhere if having error in Add user to app page
+b_422,[Improvement] Add/Create dialog is closed when user back from the Try again dialog
+b_423,[Inspection timeline - UI] Scrollbar is displayed in the inspection timeline if the asset has not been inspected
+b_424,[Asset map view - UI logic] The system throws error when interacting with the asset that has not been inspected
+b_425,[Asset list view - API] A unit of asset length is displayed in ft instead of mi
+b_426,[Asset timeline - UI] Timeline is displayed instead of message when asset timeline data cannot be loaded
+b_427,[Platform role management - UI] User is not navigate to 403 page if user is not Authorized to perform an action
+b_428,[Platform role management - UI] Message grammar incorrect
+b_429,[Platform role management - UI] UI shows both message dialog & redirect to 403 page
+b_430,[Platform role management - UI] User does not have any way to unselect a user when adding users
+b_431,[Platform role management - UI] Tenant column should not be displayed if that is in a built-in role
+b_432,[Platform role management - API] Status 500 when adding user to role with invalid roleID/userID (roleID/userID does not exist in the system)
+b_433,[Platform role management - API] Status 500 when adding an added user
+b_434,[Platform role management - API] Endpoints (get assigned users & get assignable users) return different status code in the same case (roleID does not exist) 
+b_435,[Platform role management - UI] Removing user confirmation still show up at the old position even though the user list is rearranged
+b_436,[Platform role management - API] Server returned code 400 when sorting by tenant name
+b_437,[Platform role management - API] Inactive & Pending users are not shown up in user list
+b_438,[Inspection timeline - UI] Message font size is not the same as the design
+b_439,[Platform role management - DB] Tenant admin cannot create a new user under the tenant
+b_440,[Platform role management - DB] User permission is incorrect
+b_441,[Tenant role management - UI] Application permissions are still show up even though they were removed
+b_442,[Tenant role management - API] Status response is 500 if role description is long but it is valid
+b_443,[Platform role management - API] Server returned code 400 when sorting by lastName/ firstName/ addedDate
+b_444,[Tenant role management - API] Application permissions are still displayed if they are removed
+b_445,[Tenant role management - UI logic] Cannot get application permission list if application permissions cannot be removed
+b_446,[Tenant role management - UI] Discard dialog is showed up if status response is 403 when add app permissions
+b_447,[Tenant role management - API] Business app is displayed on Launcher page with app permissions & no registration required
+b_448,[Tenant role management - API] Users can access enterprise application (AMS) without app registration
+b_449,[Subscribe application for tenant - UI] Disabled button is not work with response data
+b_450,[Tenant role management - API] Cannot sort by added date in assigned user table
+b_451,[AMS] AMS app does not works smoothly when user interact with/ search assets (list + map)
+b_452,[Tenant detail - API] Cannot get information of inactive tenant
+b_453,[AMS] Timeline is displayed with error message when backing from 403 page
+b_454,[Platform role] Cannot add users to a platform role
+b_455,[Tenant role] Cannot remove inactive users from a tenant role
+b_456,[Tenant app subscription] Optional app permissions status is Enabled if adding new on app management
+b_457,[Tenant role management] Status code is 201 even though tenant role name is duplicated
+b_458,[Platform role] Cannot load platform role's users & app permissions
+b_459,[Platform role] No error is displayed if an user is removed from his role & navigates by url or reload the current page in the old assigned role
+b_460,[DB] Tenant has app permissions even though the tenant is not subscribed the app contained that permissions (tenant: Gazprom)
+b_461,[Platform role] Status 200 with body [] if adding an existed user to platform role
+b_462,[Platform role] User caching when adding & deleting user from/ to platform role
+b_463,[Configure app permissions for tenant] Business admin can configure app permissions for a tenant
+b_464,[Configure app permissions for tenant] Available app permission list is a list of disabled optional app permissions instead of enabled optional app permissions
+b_465,[Configure app permissions for tenant] Optional permissions to the role is not removed from the added app permissions to the role if it is disabled
+b_466,[Configure app permissions for tenant] Status code 500 with invalid id (appPermissionId does not match with appId and vice versa)
+b_467,[Configure app permissions for tenant] Toggle buttons should not be enabled for business admin
+b_468,[Configure app permissions for tenant] Only enabled optional permissions are displayed in the add app permissions to role dialog
+b_469,[Inspection list] The newest is not sorted first by inspection date
+b_470,[Inspection list] Content position differs between normal & hover
+b_471,[Devops] Snyk security scan failed
+b_472,[Configure app permissions for tenant] All optional permissions are shown despite of enabling or disabling
+b_473,[Subscribe application for tenant] Sorting in application permissions is not work correctly
+b_474,[Configure app permissions for tenant] Business admin can get assigned tenant Role of an Application Permission in a Tenant
+b_475,[Inspection list] The last item in inspection list is covered by tool box
+b_476,[Configure app permissions for tenant] Toggle buttons can be clicked while another is loading
+b_477,[Improvement] Confirmation dialog is displayed after user navigates to another view
+b_478,[Tenant role management] Application permissions are still displayed even though they are removed
+b_479,[Platform/Tenant role management] Users are still displayed even though they are removed
+b_480,[Platform role management] Exception is thrown when clicking Add users button in the role [Portal user]
+b_481,[Application management] Confirmation dialog for create role is displayed although user is creating an application
+b_482,[Configure role's permissions for tenant] The content is displayed in the small height view - Enhancement
+b_483,[Configure role's permissions for tenant] The sorting at the first time a user views the app permissions list differs from a similar sort later
+b_484,[Configure role's permissions for tenant] Description must be displayed with [Read more] & other field must be displayed using [...] with tooltips if  they're too long
+b_485,[Map view] The legend is disappeared few seconds before it was displayed
+b_486,[Map view] The selected segment must be displayed with both launcher/receiver
+b_487,[Map view] The selected segment remains selected if it is re-selected after other segments has been deselected (multiple selection)
+b_488,[Configure role's permissions for tenant] Sorting in required tab works incorrectly when new optional permissions are added
+b_489,[Configure role's permissions for tenant] Popup is still visible even though the page redirects to page 403
+b_490,[Configure role's permissions for tenant] Confirmation dialog is not displayed if all app permissions are tried to remove despite error 500
+b_491,[Configure role's permissions for tenant] Add app permissions endpoint return 200 with empty array despite adding successfully
+b_492,[Configure role's permissions for tenant] Spelling mistake in the confirmation message
+b_493,[Configure role's permissions for tenant] Status codes are different in the same case - unexisted roleID
+b_494,[Map view] Highlighted segments is displayed incorrectly if the map is zoomed in/out
+b_495,[Assign permission to app] Cannot assign permissions that have long description to the app
+b_496,[Add new permission at platform level] [Empty permission list...] must be displayed instead of [No permission is defined...] if all service permissions have been already added
+b_497,[Add new permission at platform level] Solution for dynamic content (service name) in the warning dialog
+b_498,[Add new permission at platform level] Max length of description input is incorrect (expected 512 characters instead of 256)
+b_499,[Configure role's permissions for tenant] App permission name is not displayed in tenant role when add new required permission at platform level
+b_500,[Configure role's permissions for tenant] Sort by permission name in the assigned app permissions in tenant role is not work
+b_501,[Configure role's permissions for tenant] Warning message is displayed incorrectly
+b_502,[Configure role's permissions for tenant] Two scroll bars are displayed in tenant role's app permissions table
+b_503,[Configure role's permissions for tenant] The newly added required permissions in platform is not added to tenant role automatically
+b_504,[Add new permission at platform level] Status 204 when adding a new service permission to an app
+b_505,[Add new permission at platform level] All users subscribed to Tenant management app have permissions even though business admin or tenant admin
+b_506,[Tenant role management] The lastest added permissions are remained although remove all app permission in tenant role management
+b_507,[Application management] Sorting does not work correctly in app permission table at platform level
+b_508,[Application management] Cannot add service permission as a required app permission
+b_509,[Application management] Sorting in required tab does not work independent of optional tab when adding a new optional permission and vice versa
+b_510,[Add users to platform role] Status code 400 if add invalid users to Portal user
+b_511,[Tenant role management] Two scroll bar are displayed in Add app permissions to tenant role dialog
+b_512,[Segments] Status code 400 instead of 204 if tenant has no segment
+b_513,[Segments] Status code 500 instead of 403 if appId is null or wrong format
+b_514,[Segments] lastInspectionDate must be null if segment has no inspection
+b_515,[Segments] outerDiameter 
+b_516,[Map view] Segment is zoomed automatically even though it can see on the viewport
+b_517,[Map view] Cannot click in the marker to select a segment
+b_518,Segments on map should turns into marker altogether
+b_519,[Segments] Status code 500 when calling update cache
+b_520,"When segment selection change, and map viewport adjustment is required, please consider modify map center first, avoid unnecessary map zooming adjustment"
+b_521,[2FA] Background displayed with large scale
+b_522,[2FA] Style of CONTINUE is not the same as the design
+b_523,[Update timeline] Response 204 even though the tenant already has data
+b_524,[Update timeline] Status code 500 instead of 204 if tenant has no data
+b_525,[Map view] Cannot drag map to the segment position
+b_526,[Update timeline] Response data of update endpoint includes 'inspection' (expected: only 'segment')
+b_527,[Update timeline] Status code 200 with data instead of 400 if tenantId is wrong format
+b_528,[Update timeline] The last update is covered by toolbar
+b_529,[Remove permission at platform level] NEW indicators are displayed despite the old app permissions
+b_530,[Remove permission at platform level] App permissions are displayed in platform role even though there is no permission in the application
+b_531,[Remove permission at platform level] Cannot remove app permissions of Asset Management in tenant role
+b_532,[Remove permission at platform level] Try again must be replaced if it is clicked some times (status code 500)
+b_533,[Remove permission at platform level] Remove dialog still displays despite navigating to page 403 (status code 403)
+b_534,[Remove permission at platform level] Dialog padding is not the same as the design
+b_535,"[AE] When user clicks on a single selected segment, that segment should remain selected."
+b_536,Behavior after select segment on mobile device
+b_537,[Inspection list] Default sorting of inspection list is descending by date but the option ascending by date is checked
+b_538,[Inspection list] The sorting of inspection list is incorrect after filtering
+b_539,[Inspection list] 'Empty inspection...' must be displayed instead of 'No search result..' if the tenant has no data
+b_540,[Inspection list] Hover state of filter option is not the same as the design
+b_541,[Inspection list] Targets must be arranged by name (ascending)
+b_542,"Client line name should be ""N/A"" if data isn't available"
+b_543,Keep update timeline closed until user open it
+b_544,Incorrect multi segment select behavior
+b_545,Adjust map viewport to best display selected pipeline segments if select from inspection
+b_546,Data became empty when the app is just triggered or sometimes the app went to sleep
+b_547,[Segment information] n/a must be displayed if there is no data
+b_548,[Filter pipeline segments] Wrong highlight color when filtered segment de-selected
+b_549,[Filter pipeline segment] The segment is highlighted although it does not match the filter
+b_550,[Platform built-in role permission configuration] Table in Add app permission dialog is broken with short value
+b_551,[Platform built-in role permission configuration] Accept button is enabled even though no permission is chosen
+b_552,[Platform built-in role permission configuration] App name is incorrect if add new permissions while opening the other app
+b_553,[Platform built-in role permission configuration] Spelling mistake in Add app permission dialog
+b_554,[Platform built-in role permission configuration] Adjust pop-up message for app permission loading error
+b_555,[Platform built-in role permission configuration] The app permissions/ app name are still displayed even though they were removed
+b_556,[Platform built-in role permission configuration] Confirmation dialog is still displayed when navigating to page 403
+b_557,[Platform built-in role permission configuration] [Add app. permissions] button is disappeared if all app permissions of a platform role are removed
+b_558,[Platform built-in role permission configuration] Confirmation dialog is displayed when clicking Discard button despite no permission is chosen
+b_559,[Filter pipeline segments] Background of error message is not the same as the design
+b_560,[Filter pipeline segments] Chips' OD & Pipe grade is displayed with incorrect data
+b_561,[Filter pipeline segments] The segments are not highlighted automatically
+b_562,[Filter pipeline segments] Cannot clear the content in time range inputs
+b_563,[Filter pipeline segments] Time range must be enable if inspection status is active despite Inspected or Not inspected
+b_564,[AE] [Mobile] Unable to access to menu
+b_565,[Filter pipeline segments] Unable to set greater date for from date
+b_566,[Filter pipeline segments] Value of the WT inputs are disappeared with the value pair is 1-0
+b_567,[Filter pipeline segments] WT inputs accept more than 3 decimals (expected: less than or equal 3)
+b_568,[Filter pipeline segments] Label of the chip for time range is incorrect if the start date & end date are the same
+b_569,[Filter pipeline segments] Using point and comma in decimals
+b_570,[Search inspection by client line name] Inspections are repeated when using Search
+b_571,[Search inspection by client line name] Search is not working with some special keywords
+b_572,[Search inspection by client line name] Selected inspection is not highlighted while Search is using
+b_573,[Filter pipeline segments] User should only select the current date or earlier
+b_574,[Edit filter chip] Filter result is incorrect if remaining filter condition is only [Time range]
+b_575,[Search inspection by client line name] Search shows No result before showing result list when user just entered to AE
+b_576,[Search inspection by client line name] Confusing result displays after searched inspection
+b_577,[Edit filter chip] No segments are highlighted if filter has WT greater than 0
+b_578,"[Go to an approximate GPS location] Go to GPS works incorrectly if input data using , instead of . for decimal"
+b_579,[Edit filter chip] Other actions in filter must be disabled when an action is loading
+b_580,[Map view] Cutting points is un-highlighted if zooming in/ out
+b_581,[Edit filter chip] Cannot remove value in the right input in WT
+b_582,[Edit filter chip] WT inputs do not round the value to 3 decimals if it is greater than 3 decimals
+b_583,[Edit filter chip] Filter result is incorrect with some conditions
+b_584,[Filter pipeline segments] Message is displayed when the last filter condition is cleared
+b_585,[Map view] Cutting points are not displayed on mobile (unselected state)
+b_586,[Inspection list] [Empty....] message in Inspection list should be similar with the one in Update timeline
+b_587,[Tenant admin - notification] Unread notifications count not showing when user logs back in
+b_588,[Tenant admin - notification] All TA can receive notification when a new permission is added (expected: only TA of tenant subscribed to that app can received)
+b_589,[Tenant admin - notification] TA just only navigates to TM instead of Tenant subscribed app page
+b_590,[Tenant admin - notification] New notifications are not displayed when a new permission is added (must be refresh)
+b_591,[Launcher page] Navigating to 404 page when clicking Asset Explorer on Launcher page
+b_592,[Map view] Marker doesn't display information reflecting an active filter on hover over
+b_593,[Platform built-in role permission configuration] Added date of a new permission that is added to a platform role is incorrect
+b_594,[Tenant detail] Tenant GUID is null even though it has value in response data
+b_595,[Tenant detail] BA/TA cannot update tenant info even though he is assigned that permission
+b_596,[Subscribe business app for tenant] TA cannot subscribe a business app for his tenant
+b_597,[Tenant role management] TA doesn't have permission to create a new tenant role
+b_598,[Tenant role management] Assignable user list is displayed in assigned user table in tenant role
+b_599,[Tenant management] BA cannot create a new tenant
+b_600,[Subscribe business app for tenant] Flow for inactive tenant
+b_601,[Tenant management] Navigating to empty tenant list when TA/BA clicks on a notification & has no that permission
+b_602,[Tenant user management] Empty popup is displayed instead of message when create a existed user in the tenant
+b_603,[Tenant activity log] Activity log is not showing correct content
+b_604,[Configure app permission for tenant] TA cannot configure optional permission of subscribed app
+b_605,[Activity log] Cannot load activity logs after removing then adding all user to a tenant role
+b_606,[Platform role management] SA cannot remove user from a platform role
+b_607,[Subscribe business app for tenant] The content is displayed in the small height view
+b_608,[Tenant management] Warning message is missing space
+b_609,[Tenant detail] Empty page is displayed if BA/TA doesn't have permission to view his tenant info
+b_610,[Tenant detail] Empty popup is displayed if TA doesn't have permission to get Tenant available list
+b_611,[Create user under tenant] Missing [Dismiss] button in the warning dialog
+b_612,[Tenant detail] Loading indicator is still displayed instead of the previous page when refreshing from the warning popup
+b_613,Layout desktop breaks when using filter with small windows
+b_614,[Prioritize inspection list] No filter result message is incorrect
+b_615,[Map view] Cutting point on map are not rendered correctly after some quick drags
+b_616,[Filter pipeline segments] Result of filtering by inspection status is incorrect
+b_617,[Filter chip] Dropdown icon is not the same design
+b_618,[Filter pipeline segments] The filter result with conditions in inspection session is the result of the previous filtering
+b_619,[Filter chip] The chip of Target & Vendor is displayed with no content
+b_620,[Filter chip] [X] button does not clear data in the filter panel
+b_621,[Filter pipeline segments] Some cases cannot filter by current design
+b_622,[Filter pipeline segments] Result of filtering by Inspection status is incorrect (case: Inspection status is not inspected)
+b_623,Server Error in '/' Application.
+b_624,[Filter pipeline segments] Result of filtering by date is incorrect if the filter date is close to the inspection date
+b_625,[Search inspection by client line name] Search results are incorrect
+b_626,[AE] Mobile layout is broken
+b_627,[Inspection list] The sorting of inspection list is incorrect after filtering
+b_628,[Inspection list] Blank area appears if previous state is search + filter with no result
+b_629,[[Search inspection by client line name] Search results are incorrect
+b_630,[Inspection list] Apply button in inspection filter should display something to inform user that it's filtering
+b_631,[Application management] Cannot load/create applications
+b_632,[Platform role management] Cannot add permissions/users to a built-in role
+b_633,[Map view] Cutting point is not rendered on Android
+b_634,"[Inspection list] if switching between landscape mode and portrait mode, the app will be reloaded"
+b_635,[Segment information] Layout does not fit on mobile
+b_636,[Search inspection by client line name] User can't see the input when typing
+b_637,[Go to GPS] User can't see the input when typing
+b_638,[Go to GPS] Go to GPS control button doesn't response on tap
+b_639,"The more exact search key I enter, the better search result I should get"
+b_640,[Subscribe business app for tenant] Subscribed date is not displayed
+b_641,"After redirecting from login with TOTP success, it keeps loading forever"
+b_642,[Notification] All notifications of Operation Admin are disappeared if the added permission is removed & the page is refreshed
+b_643,[Notification] Sometimes user must be reload to get the new notifications
+b_644,[Notification] Tenant user can't receive notification when a new permission is added to Notification Management
+b_645,[Notification] User can't receive any notifications from Admin apps
+b_646,[Notification] Page content is incorrect when navigating between notifications
+b_647,[Warning dialog] Dialog is disappeared if user refreshes the page without doing nothing
+b_648,[Create/ Add ... dialog] Create/ Add button is disabled if user clicks Cancel after he comes back from Try again dialog
+b_649,[Bottom right icons] The icon disappears the first time it is clicked
+b_650,[Notification in tenant] Link to the app is incorrect (404)
+b_651,[Notification in tenant] Users receive notification although their role hasn't assigned that permission
+b_652,[Notification] Notification list is sorted by title after clicking a notification
+b_653,[Notification] Notification flow when OA adds new permission to app is not working
+b_654,[Search inspection] History list is pushed down after opening the keyboard
+b_655,[Notification in tenant] Notifications are not created when TA disables a permission
+b_656,[Notification in tenant] Notification content is incorrect
+b_657,[Notification] Notification list is empty if user logs out & logs in again
+b_658,[Notification in tenant] Navigation to an application mentioned by the notification doesn't work in case user receiving the notification is not subscribed to that app
+b_659,Remove the confusing words in title of some notification
+b_660,[Navigation tool] Static content is different from design
+b_661,[Create service request] Error message for value 0 in length field does not match the design
+b_662,[Overview] Header does not match design guideline
+b_663,[Save pipeline questionnaire answer] No confirmation when user clicks [Close] after editing
+b_664,[Pipeline questionnaire] Question in the branch must be displayed if user selects options on that question (must be refresh the page now)
+b_665,[Pipeline questionnaire] No reflection on Navigation tool when scrolling on pipeline questionnaire
+b_666,[Notification] Notification content from PCS is not displayed correctly
+b_667,[Notification] No real-time notification for ROSEN personnel when a new service request is created
+b_668,[Notification] Notification content from PLQ is not displayed correctly
+b_669,Transaction cost display in frontend in long decimal format
+b_670,Update static code estimation
+b_671,"[Request page] On mobile, the last created request is covered"
+b_672,[Request page] Filter options are covered if there is no request in the list
+b_673,[Request page] Add button is not shown when scrolling down
+b_674,[Request page] A blank space is shown if scroll down in the service panel
+b_675,[PLQ permissions] Data is not correct with sensitive permission on PLQ service
+b_676,[Search] Static content is incorrect
+b_677,"[Search] On mobile, request page is not displayed after clicking [X] button in search input"
+b_678,[Filter & Sort] Filter & Sort panel is displayed at the bottom of the page without clicking icon to open it
+b_679,[Filter & Sort] Static content is incorrect
+b_680,[Quick start] Can't close/ navigate in Quick Start
+b_681,[Quick start] Can't use swipe to navigate from step 2
+b_682,[Contextual help] Cannot reset position of Contextual help
+b_683,[Contextual help] Cursor does not show that content is clickable
+b_684,[Contextual help] Contextual help is not displayed in view port
+b_685,Preparing assetx2
+b_686,[Quick start] Quick start popup is not fitted with small height viewport
+b_687,"[Quick start] On mobile, header must be covered if Quick start popup is opened"
+b_688,[Contextual help] Sample image doesn't reflect step description
+b_689,[App subscription] User can use application even if he isn't subscribed
+b_690,[PLQ History] Incorrect sort (expected: newest to lowest)
+b_691,[PLQ History] Modified information is incorrect
+b_692,[PLQ History] New logs aren't displayed in real-time for ROSEN personnel
+b_693,[PLQ History] ROSEN personnel doesn't receive a notification when PLQ is changed
+b_694,[Notification] Tenant admin doesn't get real-time notifications when permission is disabled in a subscribed app
+b_695,Caching issue
+b_696,Loading forever
+b_697,"[Contextual help] Help content becomes blank when scrolling down in any detail, then back to Help"
+b_698,Error 500 when using AE application

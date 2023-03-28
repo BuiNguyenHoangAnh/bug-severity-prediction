@@ -1,0 +1,1 @@
+[Add new permission at platform level] [Empty permission list...] must be displayed instead of [No permission is defined...] if all service permissions have been already added

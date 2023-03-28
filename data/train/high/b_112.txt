@@ -1,0 +1,1 @@
+[Search inspection by client line name] User can't see the input when typing

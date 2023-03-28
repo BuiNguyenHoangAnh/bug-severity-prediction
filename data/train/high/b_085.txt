@@ -1,0 +1,1 @@
+[Segments] Status code 400 instead of 204 if tenant has no segment

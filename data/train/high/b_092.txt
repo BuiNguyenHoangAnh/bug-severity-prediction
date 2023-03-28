@@ -1,0 +1,1 @@
+[Platform built-in role permission configuration] [Add app. permissions] button is disappeared if all app permissions of a platform role are removed

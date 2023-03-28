@@ -1,0 +1,1 @@
+Possibility to change zoom factor in zoom field

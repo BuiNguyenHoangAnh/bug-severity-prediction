@@ -1,0 +1,1 @@
+Validation via QR-Code & Smartphone not working correctly

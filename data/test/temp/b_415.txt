@@ -1,0 +1,1 @@
+[Subscribe business app for tenant - UI] Long description is displayed with ellipses instead of [Read more] ad in the design

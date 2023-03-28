@@ -1,0 +1,1 @@
+[Application integration - UI] The gap between Service accessibility title and Service table is not the same as the design

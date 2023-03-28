@@ -1,0 +1,1 @@
+[Inspection list] 'Empty inspection...' must be displayed instead of 'No search result..' if the tenant has no data

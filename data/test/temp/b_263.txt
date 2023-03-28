@@ -1,0 +1,1 @@
+[Asset inspection timeline] The old timeline is displayed before updating to the new timeline

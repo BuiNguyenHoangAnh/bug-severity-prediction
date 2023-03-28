@@ -1,0 +1,1 @@
+[Contextual help] Cursor does not show that content is clickable

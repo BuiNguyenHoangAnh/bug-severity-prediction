@@ -1,0 +1,1 @@
+[Configure role's permissions for tenant] Two scroll bars are displayed in tenant role's app permissions table

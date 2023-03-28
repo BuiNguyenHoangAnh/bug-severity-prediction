@@ -1,0 +1,1 @@
+[Platform role management] SA cannot remove user from a platform role

@@ -1,0 +1,1 @@
+[Add new permission at platform level] All users subscribed to Tenant management app have permissions even though business admin or tenant admin

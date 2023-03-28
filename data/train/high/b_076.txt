@@ -1,0 +1,1 @@
+[Configure app permissions for tenant] Available app permission list is a list of disabled optional app permissions instead of enabled optional app permissions

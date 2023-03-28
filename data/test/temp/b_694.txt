@@ -1,0 +1,1 @@
+[Notification] Tenant admin doesn't get real-time notifications when permission is disabled in a subscribed app

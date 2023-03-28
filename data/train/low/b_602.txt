@@ -1,0 +1,1 @@
+[Integrate application - UI] Behavior of cards in Application/Service Overview page inconsistent with the cards in Launcher/ Tenant Overview page

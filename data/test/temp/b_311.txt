@@ -1,0 +1,1 @@
+[View all tenants - UI logic] Tool tip does not work correctly when the continuous string too long

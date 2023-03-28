@@ -1,0 +1,1 @@
+[Geo map view - UI] No launcher/ receiver marker is displayed

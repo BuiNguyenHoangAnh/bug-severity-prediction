@@ -1,0 +1,1 @@
+[View & Create user under tenant] No messages/ errors/ company name are shown when create user under inactive tenant

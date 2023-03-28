@@ -1,0 +1,1 @@
+[Login] Login with Global admin account but the app is navigated to User Launcher page

@@ -1,0 +1,1 @@
+[Service integration - UI] Style of tab title is incorrect when the tab bar is displayed horizontally

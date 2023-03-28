@@ -1,0 +1,1 @@
+[Application integration - UI] Cursor is displayed as pointer on the disabled checkbox

@@ -1,0 +1,1 @@
+[Notification] Notification content from PLQ is not displayed correctly

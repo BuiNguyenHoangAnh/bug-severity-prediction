@@ -1,0 +1,1 @@
+[Platform built-in role permission configuration] Accept button is enabled even though no permission is chosen

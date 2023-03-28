@@ -1,0 +1,1 @@
+[Filter pipeline segments] Background of error message is not the same as the design

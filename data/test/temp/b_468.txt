@@ -1,0 +1,1 @@
+[Configure app permissions for tenant] Only enabled optional permissions are displayed in the add app permissions to role dialog

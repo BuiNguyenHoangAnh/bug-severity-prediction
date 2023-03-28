@@ -1,0 +1,1 @@
+[Configure role's permissions for tenant] Sorting in required tab works incorrectly when new optional permissions are added

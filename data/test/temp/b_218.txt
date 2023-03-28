@@ -1,0 +1,1 @@
+[Create new user] Tool tips displays ellipsis with long strings

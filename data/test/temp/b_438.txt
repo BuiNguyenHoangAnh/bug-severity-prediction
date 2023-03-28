@@ -1,0 +1,1 @@
+[Inspection timeline - UI] Message font size is not the same as the design

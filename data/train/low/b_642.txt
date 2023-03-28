@@ -1,0 +1,1 @@
+[Inspection list] Content position differs between normal & hover

@@ -1,0 +1,1 @@
+Should disable print transaction report button when there is no transaction (Transaction register Admin)

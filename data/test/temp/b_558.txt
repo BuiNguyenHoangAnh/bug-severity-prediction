@@ -1,0 +1,1 @@
+[Platform built-in role permission configuration] Confirmation dialog is displayed when clicking Discard button despite no permission is chosen

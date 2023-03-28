@@ -1,0 +1,1 @@
+[Configure app permission for tenant] TA cannot configure optional permission of subscribed app

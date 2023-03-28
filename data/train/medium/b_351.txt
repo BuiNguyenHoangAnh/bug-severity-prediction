@@ -1,0 +1,1 @@
+[Asset map view - UI logic] The system throws error when interacting with the asset that has not been inspected

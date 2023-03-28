@@ -1,0 +1,1 @@
+[Search] On mobile, request page is not displayed after clicking [X] button in search input

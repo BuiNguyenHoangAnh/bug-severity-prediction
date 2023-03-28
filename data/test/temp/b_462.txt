@@ -1,0 +1,1 @@
+[Platform role] User caching when adding & deleting user from/ to platform role

@@ -1,0 +1,1 @@
+[Filter chip] The chip of Target & Vendor is displayed with no content

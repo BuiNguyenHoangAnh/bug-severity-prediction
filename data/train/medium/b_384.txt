@@ -1,0 +1,1 @@
+[Platform/Tenant role management] Users are still displayed even though they are removed

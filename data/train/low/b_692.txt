@@ -1,0 +1,1 @@
+[Request page] A blank space is shown if scroll down in the service panel

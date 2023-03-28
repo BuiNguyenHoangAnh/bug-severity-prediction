@@ -1,0 +1,1 @@
+[Configure role's permissions for tenant] Popup is still visible even though the page redirects to page 403

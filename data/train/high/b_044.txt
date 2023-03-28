@@ -1,0 +1,1 @@
+[Create new user] Enter invalid DoB then delete DoB, the input shows warning and invalid data

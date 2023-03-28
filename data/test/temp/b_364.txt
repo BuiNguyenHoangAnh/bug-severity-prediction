@@ -1,0 +1,1 @@
+[integrate application - UI logic] Handling inconsistent errors

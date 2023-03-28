@@ -1,0 +1,1 @@
+[Warning dialog] Dialog is disappeared if user refreshes the page without doing nothing

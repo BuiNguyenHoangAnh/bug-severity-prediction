@@ -1,0 +1,1 @@
+[Global header AMS+PCS - UI logic] User is automatically  logged out when navigating between AMS & PCS or reloading the page

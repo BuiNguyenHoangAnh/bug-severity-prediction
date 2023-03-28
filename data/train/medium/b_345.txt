@@ -1,0 +1,1 @@
+[Geo map view - UI] Position of Selected & Unselected asset in Legend are not correct

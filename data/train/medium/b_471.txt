@@ -1,0 +1,1 @@
+[Notification in tenant] Navigation to an application mentioned by the notification doesn't work in case user receiving the notification is not subscribed to that app

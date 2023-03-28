@@ -1,0 +1,1 @@
+[Map view] Cutting point on map are not rendered correctly after some quick drags

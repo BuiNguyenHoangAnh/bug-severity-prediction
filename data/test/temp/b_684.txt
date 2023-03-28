@@ -1,0 +1,1 @@
+[Contextual help] Contextual help is not displayed in view port

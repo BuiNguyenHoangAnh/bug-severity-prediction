@@ -1,0 +1,1 @@
+[User experience] Card views of services don't have the shadow

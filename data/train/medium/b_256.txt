@@ -1,0 +1,1 @@
+[Create new user] Inconsistent behavior when checking email addresses is unique

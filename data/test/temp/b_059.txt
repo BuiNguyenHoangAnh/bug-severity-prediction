@@ -1,0 +1,1 @@
+Adjust DE message, if no certificate with status exists

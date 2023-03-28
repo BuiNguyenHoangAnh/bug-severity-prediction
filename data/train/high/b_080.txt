@@ -1,0 +1,1 @@
+[Configure role's permissions for tenant] App permission name is not displayed in tenant role when add new required permission at platform level

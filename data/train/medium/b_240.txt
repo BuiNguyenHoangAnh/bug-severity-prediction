@@ -1,0 +1,1 @@
+UI does not display ellipsis and tooltip when enter a continuous long string for Company Name

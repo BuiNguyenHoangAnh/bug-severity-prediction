@@ -1,0 +1,1 @@
+[Platform role management] Exception is thrown when clicking Add users button in the role [Portal user]

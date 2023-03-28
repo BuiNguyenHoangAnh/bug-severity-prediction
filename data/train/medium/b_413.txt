@@ -1,0 +1,1 @@
+[Remove permission at platform level] Remove dialog still displays despite navigating to page 403 (status code 403)

@@ -1,0 +1,1 @@
+[Search asset - API] Search data must be trimmed with trailing spaces and leading spaces

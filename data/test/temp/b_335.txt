@@ -1,0 +1,1 @@
+[Search asset - UI] [Empty asset list] must be displayed if user does not have any asset instead of [no search result]

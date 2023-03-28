@@ -1,0 +1,1 @@
+[AMS] Timeline is displayed with error message when backing from 403 page

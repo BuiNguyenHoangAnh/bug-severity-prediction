@@ -1,0 +1,1 @@
+[Inspection list] if switching between landscape mode and portrait mode, the app will be reloaded

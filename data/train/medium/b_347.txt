@@ -1,0 +1,1 @@
+[Subscribe business app for tenant - UI] Permission list is displayed even though application does not have any permissions

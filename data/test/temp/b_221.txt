@@ -1,0 +1,1 @@
+[Create new user] Both warning messages are displayed with the long space string

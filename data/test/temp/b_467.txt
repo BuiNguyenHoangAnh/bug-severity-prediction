@@ -1,0 +1,1 @@
+[Configure app permissions for tenant] Toggle buttons should not be enabled for business admin

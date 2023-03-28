@@ -1,0 +1,1 @@
+Wrong width of sign-in form on Firefox / IE

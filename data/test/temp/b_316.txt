@@ -1,0 +1,1 @@
+[Update my profile - UI logic] No notify when the status response is 400

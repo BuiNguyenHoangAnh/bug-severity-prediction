@@ -1,0 +1,1 @@
+[Filter pipeline segments] Result of filtering by date is incorrect if the filter date is close to the inspection date

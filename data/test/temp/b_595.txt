@@ -1,0 +1,1 @@
+[Tenant detail] BA/TA cannot update tenant info even though he is assigned that permission

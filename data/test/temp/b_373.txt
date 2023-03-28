@@ -1,0 +1,1 @@
+[Integrate application - UI logic] Service list is not sorted after service has added successfully

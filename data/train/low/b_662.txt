@@ -1,0 +1,1 @@
+[Segment information] n/a must be displayed if there is no data

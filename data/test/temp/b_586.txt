@@ -1,0 +1,1 @@
+[Inspection list] [Empty....] message in Inspection list should be similar with the one in Update timeline

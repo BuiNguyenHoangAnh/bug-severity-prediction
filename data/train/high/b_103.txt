@@ -1,0 +1,1 @@
+[Tenant management] BA cannot create a new tenant

@@ -1,0 +1,1 @@
+[Tenant app subscription] Optional app permissions status is Enabled if adding new on app management

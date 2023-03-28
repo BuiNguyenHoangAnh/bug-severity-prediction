@@ -1,0 +1,1 @@
+[Integrate application - UI logic] [Cannot load... Please contact admin] message is not displayed after 4 clicks on [Try again]

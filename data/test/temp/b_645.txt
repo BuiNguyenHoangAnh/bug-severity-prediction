@@ -1,0 +1,1 @@
+[Notification] User can't receive any notifications from Admin apps

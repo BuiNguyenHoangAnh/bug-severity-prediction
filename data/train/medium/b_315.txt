@@ -1,0 +1,1 @@
+[Global header - UI] Inconsistent behavior when user profiles cannot be loaded

@@ -1,0 +1,1 @@
+[Asset inspection timeline] 404 page is displayed when status response is 404

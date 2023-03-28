@@ -1,0 +1,1 @@
+Transaction register in admin shown NaN in Transaction cost

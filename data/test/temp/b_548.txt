@@ -1,0 +1,1 @@
+[Filter pipeline segments] Wrong highlight color when filtered segment de-selected

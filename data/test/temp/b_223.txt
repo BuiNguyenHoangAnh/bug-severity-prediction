@@ -1,0 +1,1 @@
+[Forgot password] Wrong padding of [Reset password] button in Outlook

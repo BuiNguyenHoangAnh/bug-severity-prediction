@@ -1,0 +1,1 @@
+[Go to an approximate GPS location] Go to GPS works incorrectly if input data using , instead of . for decimal

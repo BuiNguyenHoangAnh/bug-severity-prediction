@@ -1,0 +1,1 @@
+[Integrate application - UI logic] No message is displayed even though SPA's IDP ClientID is the same with M2M's IDP ClientID

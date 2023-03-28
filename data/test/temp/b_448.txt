@@ -1,0 +1,1 @@
+[Tenant role management - API] Users can access enterprise application (AMS) without app registration

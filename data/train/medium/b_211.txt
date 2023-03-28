@@ -1,0 +1,1 @@
+Degree in duplicate dialog breaks line

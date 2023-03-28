@@ -1,0 +1,1 @@
+[Application management] Confirmation dialog for create role is displayed although user is creating an application

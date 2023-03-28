@@ -1,0 +1,1 @@
+[Service integration - UI] There is no message displayed when data is not entered in the description field

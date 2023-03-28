@@ -1,0 +1,1 @@
+[Tenant role management - API] Business app is displayed on Launcher page with app permissions & no registration required

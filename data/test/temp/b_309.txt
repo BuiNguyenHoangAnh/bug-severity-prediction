@@ -1,0 +1,1 @@
+[View all tenant page - UI] [Create tenant] button is still highlighted after the steps on [Create tenant] dialog have been completed

@@ -1,0 +1,1 @@
+[Filter pipeline segment] The segment is highlighted although it does not match the filter

@@ -1,0 +1,1 @@
+[Basic Geo Map View] There is no indicator for selected Asset on max zoom out mode

@@ -1,0 +1,1 @@
+[Basic Geo Map View] Selected asset is not aligned at center of the map

@@ -1,0 +1,1 @@
+[Basic Asset List View] Last inspection is calculated incorrectly

@@ -1,0 +1,1 @@
+Missing dots in transaction id collumn in admin transaction register template

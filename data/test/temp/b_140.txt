@@ -1,0 +1,1 @@
+Page is not displayed right when user click on "Discard changes"

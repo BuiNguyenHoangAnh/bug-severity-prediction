@@ -1,0 +1,1 @@
+[Filter pipeline segments] Chips' OD & Pipe grade is displayed with incorrect data

@@ -1,0 +1,1 @@
+[AE] When user clicks on a single selected segment, that segment should remain selected.

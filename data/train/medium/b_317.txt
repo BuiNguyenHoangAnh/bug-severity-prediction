@@ -1,0 +1,1 @@
+[Search asset - UI] UI for no search result is not the same as the design

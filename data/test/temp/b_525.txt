@@ -1,0 +1,1 @@
+[Map view] Cannot drag map to the segment position

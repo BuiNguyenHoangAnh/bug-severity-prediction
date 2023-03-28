@@ -1,0 +1,1 @@
+Should not enable "Change password" button when inputs are empty

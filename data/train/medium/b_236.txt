@@ -1,0 +1,1 @@
+Form returns the warning when entering a valid phone number length

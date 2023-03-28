@@ -1,0 +1,1 @@
+[App subscription] User can use application even if he isn't subscribed

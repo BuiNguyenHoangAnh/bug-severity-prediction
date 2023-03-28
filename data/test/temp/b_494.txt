@@ -1,0 +1,1 @@
+[Map view] Highlighted segments is displayed incorrectly if the map is zoomed in/out

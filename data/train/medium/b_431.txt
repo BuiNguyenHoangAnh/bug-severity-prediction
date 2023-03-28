@@ -1,0 +1,1 @@
+[Filter pipeline segments] Value of the WT inputs are disappeared with the value pair is 1-0

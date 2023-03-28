@@ -1,0 +1,1 @@
+Disable print button when page loading (Admin transaction report)

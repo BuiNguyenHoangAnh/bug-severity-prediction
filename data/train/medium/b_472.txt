@@ -1,0 +1,1 @@
+Remove the confusing words in title of some notification

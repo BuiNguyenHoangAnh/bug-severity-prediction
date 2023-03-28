@@ -1,0 +1,1 @@
+[Search asset - API] Search asset is using case-sensitive (expected: insensitive)

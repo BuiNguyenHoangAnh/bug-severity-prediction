@@ -1,0 +1,1 @@
+[Inspection list] Blank area appears if previous state is search + filter with no result

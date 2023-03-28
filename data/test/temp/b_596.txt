@@ -1,0 +1,1 @@
+[Subscribe business app for tenant] TA cannot subscribe a business app for his tenant

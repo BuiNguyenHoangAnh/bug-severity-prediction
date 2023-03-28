@@ -1,0 +1,1 @@
+[Launcher page - UI] Horizontal scrollbar is displayed when the height is short

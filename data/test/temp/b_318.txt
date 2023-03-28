@@ -1,0 +1,1 @@
+[Create/ Update user - API] Wrong status response when body is incorrect

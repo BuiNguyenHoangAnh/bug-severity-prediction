@@ -1,0 +1,1 @@
+[Add new permission at platform level] Max length of description input is incorrect (expected 512 characters instead of 256)

@@ -1,0 +1,1 @@
+[Configure app permissions for tenant] Optional permissions to the role is not removed from the added app permissions to the role if it is disabled

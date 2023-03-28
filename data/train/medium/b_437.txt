@@ -1,0 +1,1 @@
+[Edit filter chip] Other actions in filter must be disabled when an action is loading

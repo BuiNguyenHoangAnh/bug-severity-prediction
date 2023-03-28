@@ -1,0 +1,1 @@
+[View all tenants - UI logic] No messages are displayed when the tenant list is empty

@@ -1,0 +1,1 @@
+[Service integration - UI logic] Description field in create service dialog is required field

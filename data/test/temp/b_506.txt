@@ -1,0 +1,1 @@
+[Tenant role management] The lastest added permissions are remained although remove all app permission in tenant role management

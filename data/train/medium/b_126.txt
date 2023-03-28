@@ -1,0 +1,1 @@
+Change initial junction page and remove button [certificate validation]

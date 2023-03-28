@@ -1,0 +1,1 @@
+Wrong layout in blockchain validation page not found in Iframe

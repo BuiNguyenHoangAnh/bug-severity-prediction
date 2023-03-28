@@ -1,0 +1,1 @@
+[Platform role management - API] Inactive & Pending users are not shown up in user list

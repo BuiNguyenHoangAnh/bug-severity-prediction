@@ -1,0 +1,1 @@
+[Configure app permissions for tenant] All optional permissions are shown despite of enabling or disabling

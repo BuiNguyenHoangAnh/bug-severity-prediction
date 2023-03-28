@@ -1,0 +1,1 @@
+[Map view] Marker doesn't display information reflecting an active filter on hover over

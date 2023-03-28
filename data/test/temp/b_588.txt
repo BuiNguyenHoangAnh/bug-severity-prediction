@@ -1,0 +1,1 @@
+[Tenant admin - notification] All TA can receive notification when a new permission is added (expected: only TA of tenant subscribed to that app can received)

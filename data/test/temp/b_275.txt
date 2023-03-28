@@ -1,0 +1,1 @@
+[Basic Asset List View] Website is navigated to 404 page although response status is 401

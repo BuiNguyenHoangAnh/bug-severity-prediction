@@ -1,0 +1,1 @@
+[Platform built-in role permission configuration] The app permissions/ app name are still displayed even though they were removed

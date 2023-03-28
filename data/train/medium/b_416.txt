@@ -1,0 +1,1 @@
+[Inspection list] Default sorting of inspection list is descending by date but the option ascending by date is checked

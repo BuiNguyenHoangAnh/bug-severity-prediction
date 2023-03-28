@@ -1,0 +1,1 @@
+[Inspection timeline - UI] UI of timeline is broken

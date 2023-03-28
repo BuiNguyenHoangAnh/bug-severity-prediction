@@ -1,0 +1,1 @@
+[Filter & Sort] Filter & Sort panel is displayed at the bottom of the page without clicking icon to open it

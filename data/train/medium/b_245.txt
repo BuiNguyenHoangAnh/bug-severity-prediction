@@ -1,0 +1,1 @@
+[View all tenants]  The arrow icon at sorting method's padding is wrong

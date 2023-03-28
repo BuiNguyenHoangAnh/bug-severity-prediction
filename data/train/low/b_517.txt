@@ -1,0 +1,1 @@
+Optimize the size of validation page on mobile device

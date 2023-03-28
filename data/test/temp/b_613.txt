@@ -1,0 +1,1 @@
+Layout desktop breaks when using filter with small windows

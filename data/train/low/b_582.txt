@@ -1,0 +1,1 @@
+[Basic Geo Map View - UI] Asset that cross the anti-meridian date-line is disappeared when dragging the map

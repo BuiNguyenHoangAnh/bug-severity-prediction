@@ -1,0 +1,1 @@
+Vertical center alignment in column title (Admin transaction report)

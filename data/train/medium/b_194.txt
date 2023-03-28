@@ -1,0 +1,1 @@
+Upload empty excel file not handled in KMU multiple upload

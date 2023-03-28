@@ -1,0 +1,1 @@
+API AppService can not start due to missing configuration (STA)

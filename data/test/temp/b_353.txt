@@ -1,0 +1,1 @@
+[Integrate application - UI] No loading indicator for application information page

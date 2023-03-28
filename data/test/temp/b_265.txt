@@ -1,0 +1,1 @@
+[Basic Geo Map View] There are empty sections at the top / bottom of the map when moving up / down

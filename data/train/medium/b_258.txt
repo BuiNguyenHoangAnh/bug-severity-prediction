@@ -1,0 +1,1 @@
+[Tenant detail page] UI does not display [n/a] for null values

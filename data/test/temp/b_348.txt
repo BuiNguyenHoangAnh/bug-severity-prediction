@@ -1,0 +1,1 @@
+[Integrate application - UI logic] Clicking on [Application Management] is not navigated to Application Overview page

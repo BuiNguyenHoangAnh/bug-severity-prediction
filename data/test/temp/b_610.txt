@@ -1,0 +1,1 @@
+[Tenant detail] Empty popup is displayed if TA doesn't have permission to get Tenant available list

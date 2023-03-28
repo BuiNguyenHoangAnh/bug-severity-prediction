@@ -1,0 +1,1 @@
+[Integrate application - API] Status code response is incorrect when application does not exist

@@ -1,0 +1,1 @@
+[Service integration - UI] Service information page is not the same as the design

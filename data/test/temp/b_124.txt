@@ -1,0 +1,1 @@
+Scoreboard content not showing when updating certificate that has course item that contains year in KMU

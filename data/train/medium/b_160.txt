@@ -1,0 +1,1 @@
+Incorrect return response on Validation page after delete a certificate

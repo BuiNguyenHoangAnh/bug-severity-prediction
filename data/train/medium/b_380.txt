@@ -1,0 +1,1 @@
+[Configure app permissions for tenant] Business admin can get assigned tenant Role of an Application Permission in a Tenant

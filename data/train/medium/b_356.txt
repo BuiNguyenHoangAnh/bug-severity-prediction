@@ -1,0 +1,1 @@
+[Platform role management - API] Endpoints (get assigned users & get assignable users) return different status code in the same case (roleID does not exist) 

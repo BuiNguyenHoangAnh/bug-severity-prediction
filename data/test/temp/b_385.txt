@@ -1,0 +1,1 @@
+[Integrate application - UI] Component position is incorrect when accessing by URL with ID does not exist

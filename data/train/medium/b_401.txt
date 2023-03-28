@@ -1,0 +1,1 @@
+[Application management] Sorting in required tab does not work independent of optional tab when adding a new optional permission and vice versa

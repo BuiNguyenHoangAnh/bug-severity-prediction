@@ -1,0 +1,1 @@
+[UI][Multi upload] Unable to upload same file twice if using clear (x) button

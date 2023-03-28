@@ -1,0 +1,1 @@
+Adjust map viewport to best display selected pipeline segments if select from inspection

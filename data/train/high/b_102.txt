@@ -1,0 +1,1 @@
+[Tenant role management] Assignable user list is displayed in assigned user table in tenant role

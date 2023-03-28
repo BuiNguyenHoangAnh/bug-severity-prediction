@@ -1,0 +1,1 @@
+[Search inspection] History list is pushed down after opening the keyboard

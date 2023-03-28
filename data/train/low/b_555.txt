@@ -1,0 +1,1 @@
+[Basic asset list view] The label is incorrect

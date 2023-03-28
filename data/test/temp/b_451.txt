@@ -1,0 +1,1 @@
+[AMS] AMS app does not works smoothly when user interact with/ search assets (list + map)

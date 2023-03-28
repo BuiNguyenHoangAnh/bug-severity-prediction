@@ -1,0 +1,1 @@
+[Tenant admin - notification] TA just only navigates to TM instead of Tenant subscribed app page

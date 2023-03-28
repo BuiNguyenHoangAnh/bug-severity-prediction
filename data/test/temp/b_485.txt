@@ -1,0 +1,1 @@
+[Map view] The legend is disappeared few seconds before it was displayed

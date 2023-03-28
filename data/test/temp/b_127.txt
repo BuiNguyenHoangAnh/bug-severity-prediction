@@ -1,0 +1,1 @@
+Should disable print transaction cost button before page finishes loading

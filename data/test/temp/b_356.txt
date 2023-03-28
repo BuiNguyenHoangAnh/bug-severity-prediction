@@ -1,0 +1,1 @@
+[Integrate application - UI] The position of [Empty application list] message is incorrect

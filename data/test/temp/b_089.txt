@@ -1,0 +1,1 @@
+Stepper navigation header doesn't trigger necessary validation at certain steps

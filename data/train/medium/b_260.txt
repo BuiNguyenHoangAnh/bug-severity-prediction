@@ -1,0 +1,1 @@
+[Tenant detail page] Template is not the same as the design when changing to smaller view port

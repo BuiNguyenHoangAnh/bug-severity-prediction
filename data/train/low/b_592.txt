@@ -1,0 +1,1 @@
+[Service integration - UI] the message [Empty service list] is wrong position

@@ -1,0 +1,1 @@
+[Bottom right icons] The icon disappears the first time it is clicked

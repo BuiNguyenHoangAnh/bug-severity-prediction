@@ -1,0 +1,1 @@
+A new tenant is not created when enter required fields with space & valid email +phone number

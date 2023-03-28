@@ -1,0 +1,1 @@
+[Filter chip] [X] button does not clear data in the filter panel

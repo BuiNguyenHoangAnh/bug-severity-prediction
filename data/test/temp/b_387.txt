@@ -1,0 +1,1 @@
+[All detail pages - UI logic] Error handling is not as expected

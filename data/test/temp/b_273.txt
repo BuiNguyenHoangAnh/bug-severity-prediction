@@ -1,0 +1,1 @@
+[User detail view] The back button should have a different appearance when the cursor hovers it

@@ -1,0 +1,1 @@
+[Tenant role management] Two scroll bar are displayed in Add app permissions to tenant role dialog

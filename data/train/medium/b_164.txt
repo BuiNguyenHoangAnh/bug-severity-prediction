@@ -1,0 +1,1 @@
+IE - Can not load .otf font on validation page

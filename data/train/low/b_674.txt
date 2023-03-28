@@ -1,0 +1,1 @@
+[Map view] Cutting points is un-highlighted if zooming in/ out

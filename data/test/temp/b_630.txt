@@ -1,0 +1,1 @@
+[Inspection list] Apply button in inspection filter should display something to inform user that it's filtering

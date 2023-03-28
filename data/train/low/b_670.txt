@@ -1,0 +1,1 @@
+[Filter pipeline segments] Label of the chip for time range is incorrect if the start date & end date are the same

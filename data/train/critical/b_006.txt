@@ -1,0 +1,1 @@
+[Add new permission at platform level] Status 204 when adding a new service permission to an app

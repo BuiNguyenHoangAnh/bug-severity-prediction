@@ -1,0 +1,1 @@
+[Segments] lastInspectionDate must be null if segment has no inspection

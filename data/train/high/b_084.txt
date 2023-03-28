@@ -1,0 +1,1 @@
+[Application management] Cannot add service permission as a required app permission

@@ -1,0 +1,1 @@
+Upload profile image return 400 when image has very small size

@@ -1,0 +1,1 @@
+[Tenant detail page] Two scroll bars are displayed if the data is a long string

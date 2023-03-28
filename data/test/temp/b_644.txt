@@ -1,0 +1,1 @@
+[Notification] Tenant user can't receive notification when a new permission is added to Notification Management

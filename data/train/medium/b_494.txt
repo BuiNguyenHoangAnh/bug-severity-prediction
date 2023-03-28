@@ -1,0 +1,1 @@
+[PLQ History] New logs aren't displayed in real-time for ROSEN personnel

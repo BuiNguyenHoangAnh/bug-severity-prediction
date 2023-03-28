@@ -1,0 +1,1 @@
+[Platform built-in role permission configuration] Added date of a new permission that is added to a platform role is incorrect

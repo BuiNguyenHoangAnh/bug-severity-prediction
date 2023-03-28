@@ -1,0 +1,1 @@
+[Sort] condition should only capitalize the first character

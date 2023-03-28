@@ -1,0 +1,1 @@
+[Platform role] No error is displayed if an user is removed from his role & navigates by url or reload the current page in the old assigned role

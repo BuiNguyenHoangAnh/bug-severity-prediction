@@ -1,0 +1,1 @@
+Too long char of one word of certificate scope causes scroll bar in duplicate dialog

@@ -1,0 +1,1 @@
+[Inspection timeline - UI] Scrollbar is displayed in the inspection timeline if the asset has not been inspected

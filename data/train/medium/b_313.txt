@@ -1,0 +1,1 @@
+[View & Create user under a tenant - UI] Tenant name is disappeared when reloading the page

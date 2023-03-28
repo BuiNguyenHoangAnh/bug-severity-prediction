@@ -1,0 +1,1 @@
+[Configure role's permissions for tenant] Add app permissions endpoint return 200 with empty array despite adding successfully

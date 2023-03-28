@@ -1,0 +1,1 @@
+[Subscribe business app for tenant - UI] [Cannot load...] & [Application does not exist] message are displayed at the same time if application ID does not exist

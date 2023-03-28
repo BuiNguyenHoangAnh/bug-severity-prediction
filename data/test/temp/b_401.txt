@@ -1,0 +1,1 @@
+[Service integration] User can create a new permission with the name that existed in the system within service (expected: cannot be created)

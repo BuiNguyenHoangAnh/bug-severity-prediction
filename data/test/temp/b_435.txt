@@ -1,0 +1,1 @@
+[Platform role management - UI] Removing user confirmation still show up at the old position even though the user list is rearranged

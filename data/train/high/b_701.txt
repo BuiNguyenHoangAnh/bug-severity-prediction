@@ -1,0 +1,1 @@
+Cookie banner/ Privacy/ Term & Conditions is not displayed when clicking its label in the footer

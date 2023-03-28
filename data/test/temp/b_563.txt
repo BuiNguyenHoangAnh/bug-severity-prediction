@@ -1,0 +1,1 @@
+[Filter pipeline segments] Time range must be enable if inspection status is active despite Inspected or Not inspected

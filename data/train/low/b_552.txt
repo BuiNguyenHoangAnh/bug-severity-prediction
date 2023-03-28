@@ -1,0 +1,1 @@
+[Create new user] Warning message is displayed if a valid Company name is entered but not selected in the list

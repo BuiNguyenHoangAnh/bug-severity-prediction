@@ -1,0 +1,1 @@
+[Remove permission at platform level] Cannot remove app permissions of Asset Management in tenant role

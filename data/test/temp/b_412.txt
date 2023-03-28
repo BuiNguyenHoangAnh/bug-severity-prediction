@@ -1,0 +1,1 @@
+[Subscribe business app for tenant - UI] No message is displayed if application have no permissions

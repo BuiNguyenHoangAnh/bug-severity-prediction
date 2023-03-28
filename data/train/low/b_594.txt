@@ -1,0 +1,1 @@
+[Service integration - UI] Warning messages are displayed for at the same time

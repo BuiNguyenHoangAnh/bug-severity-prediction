@@ -1,0 +1,1 @@
+[Tenant detail page] The Tenant Management label in the breadcrumb displayed ellipsis though on large view port

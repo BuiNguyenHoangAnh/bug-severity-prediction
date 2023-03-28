@@ -1,0 +1,1 @@
+Verify does not work on some browser when language setting is Germany

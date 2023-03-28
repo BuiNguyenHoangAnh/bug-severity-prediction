@@ -1,0 +1,1 @@
+[Tenant detail - API] Cannot get information of inactive tenant

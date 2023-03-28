@@ -1,0 +1,1 @@
+[Application integration - UI logic] Content of Description column in permission table is empty when cannot get available permission list

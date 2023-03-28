@@ -1,0 +1,1 @@
+Server error on Dev when asset has no inspection

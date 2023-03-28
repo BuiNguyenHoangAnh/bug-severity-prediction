@@ -1,0 +1,1 @@
+[Remove permission at platform level] App permissions are displayed in platform role even though there is no permission in the application

@@ -1,0 +1,1 @@
+[Application integration - UI] Static content is incorrect

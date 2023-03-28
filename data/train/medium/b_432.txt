@@ -1,0 +1,1 @@
+[Filter pipeline segments] WT inputs accept more than 3 decimals (expected: less than or equal 3)

@@ -1,0 +1,1 @@
+[Configure app permissions for tenant] Toggle buttons can be clicked while another is loading

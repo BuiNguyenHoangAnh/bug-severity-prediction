@@ -1,0 +1,1 @@
+[Asset list view - UI] Last inspection date format is not the same with the design

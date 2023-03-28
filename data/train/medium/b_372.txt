@@ -1,0 +1,1 @@
+[DB] Tenant has app permissions even though the tenant is not subscribed the app contained that permissions (tenant: Gazprom)

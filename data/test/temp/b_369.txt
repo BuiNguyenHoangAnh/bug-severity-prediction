@@ -1,0 +1,1 @@
+[Integrate application - UI logic] No message is displayed when service cannot be added

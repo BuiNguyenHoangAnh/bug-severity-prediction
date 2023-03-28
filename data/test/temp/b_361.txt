@@ -1,0 +1,1 @@
+[Service integration - UI logic] No message is displayed when service does not existed in the system

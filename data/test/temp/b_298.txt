@@ -1,0 +1,1 @@
+[FE] Wrong position of map control when select same asset from list again

@@ -1,0 +1,1 @@
+[Configure app permissions for tenant] Status code 500 with invalid id (appPermissionId does not match with appId and vice versa)

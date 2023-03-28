@@ -1,0 +1,1 @@
+[Create new user] The new user is not created without any warning

@@ -1,0 +1,1 @@
+[Quick start] On mobile, header must be covered if Quick start popup is opened

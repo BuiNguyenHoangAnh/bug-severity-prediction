@@ -1,0 +1,1 @@
+[Service integration - UI] UI is broken if message for the service that does not exist in the system is displayed

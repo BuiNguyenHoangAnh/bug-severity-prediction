@@ -1,0 +1,1 @@
+No error message: [Enter multiple certificate] Return invalid data error if original certificate ID isn't correctly combined per defined rule (studentID;Degree)

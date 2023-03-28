@@ -1,0 +1,1 @@
+[Platform built-in role permission configuration] Confirmation dialog is still displayed when navigating to page 403

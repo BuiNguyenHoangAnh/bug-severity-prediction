@@ -1,0 +1,1 @@
+Still able to enter duplicate Individual Certificate when studentId contain space at the beginning and end

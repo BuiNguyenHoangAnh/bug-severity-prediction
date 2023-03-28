@@ -1,0 +1,1 @@
+[Edit filter chip] Filter result is incorrect if remaining filter condition is only [Time range]

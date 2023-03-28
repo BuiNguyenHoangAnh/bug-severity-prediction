@@ -1,0 +1,1 @@
+[Edit filter chip] Cannot remove value in the right input in WT

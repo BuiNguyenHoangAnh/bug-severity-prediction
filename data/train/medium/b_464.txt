@@ -1,0 +1,1 @@
+[Go to GPS] Go to GPS control button doesn't response on tap

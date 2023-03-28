@@ -1,0 +1,1 @@
+[Integrate application - UI] User is not redirected to 403 page when user is not Authorized

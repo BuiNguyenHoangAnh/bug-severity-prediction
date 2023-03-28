@@ -1,0 +1,1 @@
+[Tenant role management - UI] Discard dialog is showed up if status response is 403 when add app permissions
